@@ -47,7 +47,7 @@
       "Kindernachrichten": "Children's / Youth programs",
       "Abenteuer": "Adventure / Western / War",
       "Krankenhaus": "Medicine / Physiology / Psychology",
-      "Mystery &amp; Horror / Jugend": "Children's / Youth programs",
+      "Mystery & Horror / Jugend": "Children's / Youth programs",
       "Mystery": "Science fiction / Fantasy / Horror",
       "Comedy": "Comedy",
       "Musikshow": "Music / Ballet / Dance",
@@ -59,7 +59,7 @@
       "Jugend": "Children's / Youth programs",
       "Familie": "Soap / Melodrama / Folkloric",
       "Erotik": "Adult movie / Drama",
-      "Romantik &amp; Liebe": "Romance",
+      "Romantik & Liebe": "Romance",
       "Politik": "Social / Political issues / Economics",
       "Natur": "Nature / Animals / Environment",
       "Science Fiction": "Science fiction / Fantasy / Horror",
@@ -73,8 +73,8 @@
       "Musikclips": "Music / Ballet / Dance",
       "Klassische Musik": "Music / Ballet / Dance",
       "Volksmusik": "Music / Ballet / Dance",
-      "Pop &amp; Rock": "Music / Ballet / Dance",
-      "Motor &amp; Verkehr": "Motoring",
+      "Pop & Rock": "Music / Ballet / Dance",
+      "Motor & Verkehr": "Motoring",
       "Fantasy": "Science fiction / Fantasy / Horror"
     },
     "CH": {
@@ -124,7 +124,7 @@
       "Kindernachrichten": "Children's / Youth programs",
       "Abenteuer": "Adventure / Western / War",
       "Krankenhaus": "Medicine / Physiology / Psychology",
-      "Mystery &amp; Horror / Jugend": "Children's / Youth programs",
+      "Mystery & Horror / Jugend": "Children's / Youth programs",
       "Mystery": "Science fiction / Fantasy / Horror",
       "Comedy": "Comedy",
       "Musikshow": "Music / Ballet / Dance",
@@ -136,7 +136,7 @@
       "Jugend": "Children's / Youth programs",
       "Familie": "Soap / Melodrama / Folkloric",
       "Erotik": "Adult movie / Drama",
-      "Romantik &amp; Liebe": "Romance",
+      "Romantik & Liebe": "Romance",
       "Politik": "Social / Political issues / Economics",
       "Natur": "Nature / Animals / Environment",
       "Science Fiction": "Science fiction / Fantasy / Horror",
@@ -150,8 +150,8 @@
       "Musikclips": "Music / Ballet / Dance",
       "Klassische Musik": "Music / Ballet / Dance",
       "Volksmusik": "Music / Ballet / Dance",
-      "Pop &amp; Rock": "Music / Ballet / Dance",
-      "Motor &amp; Verkehr": "Motoring",
+      "Pop & Rock": "Music / Ballet / Dance",
+      "Motor & Verkehr": "Motoring",
       "Fantasy": "Science fiction / Fantasy / Horror"
     }
   }
