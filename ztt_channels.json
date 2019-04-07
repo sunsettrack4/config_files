@@ -86,10 +86,10 @@
       "WDR Muenster": "WDRMuenster.de",
       "WDR Siegen": "WDRSiegen.de",
       "WDR Wuppertal": "WDRWuppertal.de",
-      "nrwision": "nrwision.de",
+      "NRWision": "nrwision.de",
       "Saarland Fernsehen 1": "Saarland1.de",
       "Baden TV": "BadenTV.de",
-      "Baden TV Süd": "BadenTVSud.de",
+      "Baden TV Süd HD": "BadenTVSud.de",
       "ORF 2 Europe": "ORF2Europe.at",
       "SRF info HD": "SRFinfo.nws",
       "CNN International": "CNN.nws",
@@ -113,8 +113,8 @@
       "TNT Comedy HD": "TNTComedy.de",
       "TNT Film HD": "TNTFilm.de",
       "TNT Serie HD": "TNTSerie.de",
-      "Sport1+ HD": "SPORT1plus.de",
-      "eSports1": "eSports1.de",
+      "sport1+ HD": "SPORT1plus.de",
+      "eSports1 HD": "eSports1.de",
       "Sportdigital HD": "sportdigital.de",
       "auto motor und sport Channel HD": "AutoMotorSport.de",
       "Motorvision TV": "MotorVision.de",
@@ -160,7 +160,7 @@
       "Pink Koncert": "PinkLive.rs",
       "Pink Folk": "PinkFolk1.rs",
       "Pink Music": "PinkMusic.si",
-      "Globo": "TVGlobo.pt"
+      "Globo HD": "TVGlobo.pt"
     },
     "CH": {
       "SRF 1 HD": "SRF1.ch",
