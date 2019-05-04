@@ -1,6 +1,26 @@
 {
   "categories": {
     "UK": {
+      "arts": "Arts / Culture (without music)",
+      "childrens": "Children's / Youth programs",
+      "comedy": "Comedy",
+      "current_affairs": "News / Current affairs",
+      "documentary": "Documentary",
+      "drama": "Movie / Drama",
+      "education": "Education / Science / Factual topics",
+      "entertainment": "Show / Game show",
+      "food": "Cooking",
+      "history": "Serious / Classical / Religious / Historical movie / Drama",
+      "lifestyle": "Arts / Culture (without music)",
+      "music": "Music / Ballet / Dance",
+      "nature": "Nature / Animals / Environment",
+      "news": "News / Current affairs",
+      "property": "Handicraft",
+      "reality": "Show / Game show",
+      "science": "Education / Science / Factual topics",
+      "sitcom": "Soap / Melodrama / Folkloric",
+      "soap": "Soap / Melodrama / Folkloric",
+      "sport": "Sports"
     }
   }
 }
