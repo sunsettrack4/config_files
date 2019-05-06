@@ -1,6 +1,24 @@
 {
   "categories": {
     "UK": {
+      "Close": "Keine Informationen Enthalten",
+      "Comedy": "Comedy",
+      "Cookery": "Cooking",
+      "Desi": "Movie / Drama",
+      "Drama": "Movie / Drama",
+      "Entertainment": "Show / Game show",
+      "Essential": "Keine Informationen Enthalten",
+      "Extra Entertainment": "Show / Game show",
+      "Factual": "Education / Science / Factual topics",
+      "Featured": "Variety show",
+      "Film": "Film / Cinema",
+      "Kids": "Children's / Youth programs",
+      "Lifestyle": "Arts / Culture (without music)",
+      "Music": "Music / Ballet / Dance",
+      "News": "News / Current affairs",
+      "Religious": "Religion",
+      "Sport": "Sports",
+      "Weather": "News / Weather report"    
     }
   }
 }
