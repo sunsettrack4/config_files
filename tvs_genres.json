@@ -1552,14 +1552,29 @@
             "Teenie-Musical" : "Musical / Opera",
             "Teenmusical" : "Musical / Opera",
             "Teenthriller" : "Detective / Thriller",
-            "Trash" : "Keine Informationen Enthalten",
+            "Trash" : "Movie / Drama",
             "Trickfilm" : "Cartoons / Puppets",
             "TV-Doku" : "Documentary",
             "U-Boot-Action" : "Adventure / Western / War",
             "Vorzeitabenteuer" : "Adventure / Western / War",
             "Westernparodie" : "Comedy",
             "Zeitgeistdrama" : "Movie / Drama",
-            "Zeitreisekomödie" : "Comedy"
+            "Zeitreisekomödie" : "Comedy",
+            "Dokumentationsreihe" : "Documentary",
+            "Kinder-Actionserie" : "Children's / Youth programs",
+            "Sci-fi-Mystery" : "Science fiction / Fantasy / Horror",
+            "Neo-Noir-Thriller" : "Detective / Thriller",
+            "Horrorepisoden" : "Science fiction / Fantasy / Horror",
+            "Zombieaction" : "Science fiction / Fantasy / Horror",
+            "Horror-Episodenfilm" : "Science fiction / Fantasy / Horror",
+            "Steinzeitabenteuer" : "Adventure / Western / War",
+            "Meta-Thriller" : "Detective / Thriller",
+            "Episoden-Horror" : "Science fiction / Fantasy / Horror",
+            "Vampirromanze" : "Science fiction / Fantasy / Horror",
+            "Actionquatsch" : "Comedy",
+            "Kampfkunstkitsch" : "Comedy",
+            "Horrorschlock" : "Science fiction / Fantasy / Horror",
+            "Gangsterklamauk" : "Comedy"
           }
   }
 }
