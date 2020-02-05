@@ -1575,7 +1575,10 @@
             "Kampfkunstkitsch" : "Comedy",
             "Horrorschlock" : "Science fiction / Fantasy / Horror",
             "Gangsterklamauk" : "Comedy",
-            "Slasher-Horrorkomödie" : "Comedy"
+            "Slasher-Horrorkomödie" : "Comedy",
+            "Horror-Slasher" : "Science fiction / Fantasy / Horror",
+            "Noir-Thriller" : "Detective / Thriller",
+            "Sci-Fi-Laienspiel" : "Science fiction / Fantasy / Horror"
           }
   }
 }
