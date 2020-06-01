@@ -46,7 +46,6 @@
       "Anime": "Cartoons / Puppets",
       "Zeichentrick": "Cartoons / Puppets",
       "Animation": "Cartoons / Puppets",
-      "Kinderserie": "Children's / Youth programs",
       "Kindershow": "Children's / Youth programs",
       "Kinderfilm": "Children's / Youth programs",
       "Kindernachrichten": "Children's / Youth programs",
@@ -113,7 +112,6 @@
       "Kino": "Movie / Drama",
       "Heimat": "Movie / Drama",
       "Tennis": "Tennis / Squash",
-      "Kinderserie": "Children's / Youth programs",
       "Humor": "Comedy",
       "Komödie": "Comedy",
       "Krimi": "Detective / Thriller",
@@ -167,6 +165,10 @@
       "Motor &amp; Verkehr": "Motoring",
       "Fantasy": "Science fiction / Fantasy / Horror",
       "Märchen": "Children's / Youth programs"
+    },
+    "AT": {
+    },
+    "IE": {
     }
   }
 }
