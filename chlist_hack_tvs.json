@@ -1,0 +1,4567 @@
+{
+ "items": [
+  {
+    "id": "ARD",
+    "name": "Das Erste",
+    "name_short": "DAS ERSTE",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "459036a27fc7799dea32a4b285afa1ca",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ARD.png"
+    },
+    "image_large": {
+      "hash": "84daaf5afea647e953ce052bc237583b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ARD.png"
+    },
+    "image_livetv-small": {
+      "hash": "0f84fdeb984eb31db675ec7b5d78f074",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ARD.png"
+    },
+    "image_livetv-large": {
+      "hash": "0ebf6f504acc917324406ae6d9dd0162",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ARD.png"
+    },
+    "image_mono": {
+      "hash": "ec351f6c87043b169fc4d53663afb309",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ARD.png"
+    },
+    "image_teaser": {
+      "hash": "dbc46684b452ba77c527a74f9c62a562",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ARD.png"
+    }
+  },
+  {
+    "id": "ZDF",
+    "name": "ZDF",
+    "name_short": "ZDF",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "bc5197b02202ce86f9728dd8cb9566f5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ZDF.png"
+    },
+    "image_large": {
+      "hash": "b7e6d7fabc0d3306fad0eef77b5a04f6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ZDF.png"
+    },
+    "image_livetv-small": {
+      "hash": "bc5197b02202ce86f9728dd8cb9566f5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ZDF.png"
+    },
+    "image_livetv-large": {
+      "hash": "8505cbbc30e65ceebd4269597d06de33",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ZDF.png"
+    },
+    "image_mono": {
+      "hash": "5984aa003aee7ee81e85b4504817bdaa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ZDF.png"
+    },
+    "image_teaser": {
+      "hash": "320cbc0c9641c91d8e5c1d667a761871",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ZDF.png"
+    }
+  },
+  {
+    "id": "RTL",
+    "name": "RTL",
+    "name_short": "RTL",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "50d828f7225ee4778ed0c9791a519aa1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTL.png"
+    },
+    "image_large": {
+      "hash": "c7f586855250d722d7e84f94df51b37d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTL.png"
+    },
+    "image_livetv-small": {
+      "hash": "44712662b780481a551087386a92e2da",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RTL.png"
+    },
+    "image_livetv-large": {
+      "hash": "2731bf1402ab276ddcd5833976808642",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RTL.png"
+    },
+    "image_mono": {
+      "hash": "144e4077e96ac13c7872ae4d8c86d277",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RTL.png"
+    },
+    "image_teaser": {
+      "hash": "ba7c03ca7d5b2bd965bd6560f8f468bd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RTL.png"
+    }
+  },
+  {
+    "id": "SAT1",
+    "name": "SAT.1",
+    "name_short": "SAT.1",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "ad74c0778851d785e7b6e8185532e352",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SAT1.png"
+    },
+    "image_large": {
+      "hash": "91d30b53f2f17919f3924a4f6adce836",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SAT1.png"
+    },
+    "image_livetv-small": {
+      "hash": "ad74c0778851d785e7b6e8185532e352",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SAT1.png"
+    },
+    "image_livetv-large": {
+      "hash": "91d30b53f2f17919f3924a4f6adce836",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SAT1.png"
+    },
+    "image_mono": {
+      "hash": "f71eb8af98467717c7df631d78a55737",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SAT1.png"
+    },
+    "image_teaser": {
+      "hash": "7e76d7de807b3f0c7297d0f45d9135f0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SAT1.png"
+    }
+  },
+  {
+    "id": "PRO7",
+    "name": "ProSieben",
+    "name_short": "PRO7",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "fc5505a243a172bfc8fbc7e183b688d4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PRO7.png"
+    },
+    "image_large": {
+      "hash": "313d98a312b8aaf843819e44bc4c12ec",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PRO7.png"
+    },
+    "image_livetv-small": {
+      "hash": "ab6b0569bf3c1123e4b8dd9be0f03f85",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/PRO7.png"
+    },
+    "image_livetv-large": {
+      "hash": "cadbdd73b4fb4db314a89a8c5c147313",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/PRO7.png"
+    },
+    "image_mono": {
+      "hash": "a1da9faf9a67929d0d095a71b0751ec0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/PRO7.png"
+    },
+    "image_teaser": {
+      "hash": "3bf83be81c6ccec1e7922d562081d01d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/PRO7.png"
+    }
+  },
+  {
+    "id": "K1",
+    "name": "kabel eins",
+    "name_short": "KABEL1",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "99b17438f33701176f85bc0be0771a00",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/K1.png"
+    },
+    "image_large": {
+      "hash": "ef3032b41dd8de8933370ca569163652",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/K1.png"
+    },
+    "image_livetv-small": {
+      "hash": "100571ea7e08b260fe408a1e6649213c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/K1.png"
+    },
+    "image_livetv-large": {
+      "hash": "7cc610f227620bd265057ca37657683a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/K1.png"
+    },
+    "image_mono": {
+      "hash": "b2de7af0bbff399c4667653e200aab57",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/K1.png"
+    },
+    "image_teaser": {
+      "hash": "c76c6548fbd5ef57806b0ac4e6e09505",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/K1.png"
+    }
+  },
+  {
+    "id": "RTL2",
+    "name": "RTL II",
+    "name_short": "RTL2",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "c3532dfd6ebc1df01264d3aebb3ba988",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTL2.png"
+    },
+    "image_large": {
+      "hash": "0a240c8c41af94c7c5de8bb20aba7ff4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTL2.png"
+    },
+    "image_livetv-small": {
+      "hash": "396c66117207fcd1f6951b4a92c0703c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RTL2.png"
+    },
+    "image_livetv-large": {
+      "hash": "84cb7f31a156ca30b03a1538f3d601ef",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RTL2.png"
+    },
+    "image_mono": {
+      "hash": "c1cc7c4417d642a9b47302394ee48baf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RTL2.png"
+    },
+    "image_teaser": {
+      "hash": "744179e9cb88687512ae0e38fe2a83f8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RTL2.png"
+    }
+  },
+  {
+    "id": "VOX",
+    "name": "VOX",
+    "name_short": "VOX",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9b7bff14b8114ed4e49e38c58991a2e5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/VOX.png"
+    },
+    "image_large": {
+      "hash": "fbdeec6c8a169cd4c065ddbc8d0cf952",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/VOX.png"
+    },
+    "image_livetv-small": {
+      "hash": "e4337908d684e48e62bccd98dedf34b1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/VOX.png"
+    },
+    "image_livetv-large": {
+      "hash": "a517ff43acbfa86feb7f5b88f584c6fe",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/VOX.png"
+    },
+    "image_mono": {
+      "hash": "92bddd92a752ec35f884566cebcc118d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/VOX.png"
+    },
+    "image_teaser": {
+      "hash": "540c4a3d4cb46d749743895d61de6cc6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/VOX.png"
+    }
+  },
+  {
+    "id": "3SAT",
+    "name": "3sat",
+    "name_short": "3SAT",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "c1c76d78d0aeb36d25e21cd97b85f06d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/3SAT.png"
+    },
+    "image_large": {
+      "hash": "7500dfc2e33456b33355038331c4b63b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/3SAT.png"
+    },
+    "image_livetv-small": {
+      "hash": "55f9ba34fe5c8b575d03ab390c425b39",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/3SAT.png"
+    },
+    "image_livetv-large": {
+      "hash": "cffc41e0db101e6ec1558d211fe3f06e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/3SAT.png"
+    },
+    "image_mono": {
+      "hash": "9fdc7c04a05baf85ea5366423df6a2fa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/3SAT.png"
+    },
+    "image_teaser": {
+      "hash": "dad3b495056244b1059b965d489c343c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/3SAT.png"
+    }
+  },
+  {
+    "id": "ARTE",
+    "name": "ARTE",
+    "name_short": "ARTE",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "f4b5c6256d53922d500c0a703e695d9d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ARTE.png"
+    },
+    "image_large": {
+      "hash": "844ca6672ed0a8021c5168e7856b60b2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ARTE.png"
+    },
+    "image_livetv-small": {
+      "hash": "ff15433660aabac6742e5c1b946df0b4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ARTE.png"
+    },
+    "image_livetv-large": {
+      "hash": "af217660434ea19ef7a016eb513d73a3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ARTE.png"
+    },
+    "image_mono": {
+      "hash": "7338efe74dc15ef63d26e5353f515ef0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ARTE.png"
+    },
+    "image_teaser": {
+      "hash": "74eab5aa5f836b12b6bd9ff763aedf0b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ARTE.png"
+    }
+  },
+  {
+    "id": "SERVU",
+    "name": "ServusTV",
+    "name_short": "SERVUS TV",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "4e62956c890b82ea9b9ab6c1d72d4f21",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SERVU.png"
+    },
+    "image_large": {
+      "hash": "726980746760101d96ec4b2033512a0d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SERVU.png"
+    },
+    "image_livetv-small": {
+      "hash": "4e62956c890b82ea9b9ab6c1d72d4f21",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SERVU.png"
+    },
+    "image_livetv-large": {
+      "hash": "a68aba9245585f7df39337b3d5a1bbbc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SERVU.png"
+    },
+    "image_mono": {
+      "hash": "87b7ee8bea2c83368ba3329e084793f1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SERVU.png"
+    },
+    "image_teaser": {
+      "hash": "ece096e2e5cb3efbf5c16f2415d4a8e7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SERVU.png"
+    }
+  },
+  {
+    "id": "TELE5",
+    "name": "Tele 5",
+    "name_short": "TELE5",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "60a8f400d9a97572f14fd5e8224f265f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TELE5.png"
+    },
+    "image_large": {
+      "hash": "1af85b5be65557720e6833dc87610610",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TELE5.png"
+    },
+    "image_livetv-small": {
+      "hash": "abe62b5195beb50ddfdfdd3b52194558",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/TELE5.png"
+    },
+    "image_livetv-large": {
+      "hash": "f9a6de34afc182810c087d04d37df2c0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/TELE5.png"
+    },
+    "image_mono": {
+      "hash": "0ac7752884e75f1d3d16b380c46ba8ca",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/TELE5.png"
+    },
+    "image_teaser": {
+      "hash": "80cd71439ffd06fb4280f34a167462b6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/TELE5.png"
+    }
+  },
+  {
+    "id": "DMAX",
+    "name": "DMAX",
+    "name_short": "DMAX",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "616443ef87038e70c6f0602b4e3e7b5c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DMAX.png"
+    },
+    "image_large": {
+      "hash": "9322a6d084d7f360738004f32cf3452e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DMAX.png"
+    },
+    "image_livetv-small": {
+      "hash": "20de01c1b33ac72bad2287f7533f3eb0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/DMAX.png"
+    },
+    "image_livetv-large": {
+      "hash": "058c1b4059fdd0c18b05d154a66ef4b6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/DMAX.png"
+    },
+    "image_mono": {
+      "hash": "8f977ba49275ef2753465f6909b0b49b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/DMAX.png"
+    },
+    "image_teaser": {
+      "hash": "5a638eb0e72e1952a0be6d80913d6d45",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/DMAX.png"
+    }
+  },
+  {
+    "id": "SIXX",
+    "name": "sixx",
+    "name_short": "SIXX",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "8c8aeca81069c2187f68872639f797e9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SIXX.png"
+    },
+    "image_large": {
+      "hash": "e751f834c866a81e0ff9deec6da9cfdc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SIXX.png"
+    },
+    "image_livetv-small": {
+      "hash": "8c8aeca81069c2187f68872639f797e9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SIXX.png"
+    },
+    "image_livetv-large": {
+      "hash": "f4747f534c1989a7ea283062d34ba52e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SIXX.png"
+    },
+    "image_mono": {
+      "hash": "7bfb2f46b5b04367f1606b3adb6b1393",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SIXX.png"
+    },
+    "image_teaser": {
+      "hash": "9492319c8eac5d4a16cce86a86969b3a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SIXX.png"
+    }
+  },
+  {
+    "id": "RTL-N",
+    "name": "NITRO",
+    "name_short": "RTL NITRO",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "85c02481e87f4baef8f2c5e17db9fe42",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTL-N.png"
+    },
+    "image_large": {
+      "hash": "0db3531b8861ca46cd624fe1ea0c0107",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTL-N.png"
+    },
+    "image_livetv-small": {
+      "hash": "48dd03752c48276ffb4af6f0e13b9560",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RTL-N.png"
+    },
+    "image_livetv-large": {
+      "hash": "0db3531b8861ca46cd624fe1ea0c0107",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RTL-N.png"
+    },
+    "image_mono": {
+      "hash": "6b55b4a75b15302ce9da3fc1e177d206",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RTL-N.png"
+    },
+    "image_teaser": {
+      "hash": "164c1f91cffeba102ee933d7b5abf0bd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RTL-N.png"
+    }
+  },
+  {
+    "id": "RTLPL",
+    "name": "RTLplus",
+    "name_short": "RTL PLUS",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "44ae27a0c65317d390a1b72b7b0f5f7a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTLPL.png"
+    },
+    "image_large": {
+      "hash": "e9222f27702d8792cf347c5cb66fbce3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTLPL.png"
+    },
+    "image_livetv-small": {
+      "hash": "0692e388d358ac43428ce04d58aaa936",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RTLPL.png"
+    },
+    "image_livetv-large": {
+      "hash": "0e59dd26708bb0c11c10d4d888379368",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RTLPL.png"
+    },
+    "image_mono": {
+      "hash": "52b24c98988701f6daf820dd8af1f6ae",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RTLPL.png"
+    },
+    "image_teaser": {
+      "hash": "072562537789bc126e6ca4d16e12fe7d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RTLPL.png"
+    }
+  },
+  {
+    "id": "SAT1G",
+    "name": "SAT.1 Gold",
+    "name_short": "SAT.1 GOLD",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "495c8a1d0388b46ce6b6fbebf10ecd5c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SAT1G.png"
+    },
+    "image_large": {
+      "hash": "2c73ca3b913404aecca541418f953d25",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SAT1G.png"
+    },
+    "image_livetv-small": {
+      "hash": "a88182a0054d8ed15dec8c7cf4d1b10f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SAT1G.png"
+    },
+    "image_livetv-large": {
+      "hash": "45468f6bef78493a4beabda96b6f39bb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SAT1G.png"
+    },
+    "image_mono": {
+      "hash": "a58cf0a81a01284ad6c9dd60773a2d0c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SAT1G.png"
+    },
+    "image_teaser": {
+      "hash": "421fe31ccb2d6ca247b10b071f6a8b6a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SAT1G.png"
+    }
+  },
+  {
+    "id": "PRO7M",
+    "name": "ProSieben MAXX",
+    "name_short": "PRO7 MAXX",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "f872c90a408f6f64e2a4b4b558d6bb92",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PRO7M.png"
+    },
+    "image_large": {
+      "hash": "e4467dc890d2417eda88e5077d75f203",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png"
+    },
+    "image_livetv-small": {
+      "hash": "f872c90a408f6f64e2a4b4b558d6bb92",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/PRO7M.png"
+    },
+    "image_livetv-large": {
+      "hash": "9d9ffb0d079e5fd98ae24454f6cdc9a6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/PRO7M.png"
+    },
+    "image_mono": {
+      "hash": "881cfd0c149251602f41686f78e08cde",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/PRO7M.png"
+    },
+    "image_teaser": {
+      "hash": "0d780df5643c22326c1bc829869d6fc9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/PRO7M.png"
+    }
+  },
+  {
+    "id": "CC",
+    "name": "Comedy Central",
+    "name_short": "CC",
+    "category": "Hauptsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ddd7ab99ea57b45085021569c5c10be5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CC.png"
+    },
+    "image_large": {
+      "hash": "4b4452c4eb565ddcee50210600c985fd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CC.png"
+    }
+  },
+  {
+    "id": "WDR",
+    "name": "WDR",
+    "name_short": "WDR",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "a9e91bde61d51a08602e1ff2952144e2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/WDR-K.png"
+    },
+    "image_large": {
+      "hash": "f75fffe4a003066667b5f574d6e6d356",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/WDR-K.png"
+    },
+    "image_livetv-small": {
+      "hash": "a9e91bde61d51a08602e1ff2952144e2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/WDR-K.png"
+    },
+    "image_livetv-large": {
+      "hash": "04e0b85d527c6a1dccaf175fc2059e86",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/WDR-K.png"
+    },
+    "image_mono": {
+      "hash": "b776d75c2ebc9cccc84641d8f27a7e78",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/WDR-K.png"
+    },
+    "image_teaser": {
+      "hash": "8dc14c649667c1c4dad78896efceb034",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/WDR-K.png"
+    }
+  },
+  {
+    "id": "N3",
+    "name": "NDR",
+    "name_short": "N3",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "05206f61858a30ff1d2ff9679e2b93f8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NDR-NI.png"
+    },
+    "image_large": {
+      "hash": "831aa33a193444f906c6fc27325e17d0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NDR-NI.png"
+    },
+    "image_livetv-small": {
+      "hash": "05206f61858a30ff1d2ff9679e2b93f8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/NDR-NI.png"
+    },
+    "image_livetv-large": {
+      "hash": "831aa33a193444f906c6fc27325e17d0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/NDR-NI.png"
+    },
+    "image_mono": {
+      "hash": "b58cdd519a7300a1e8271086011ef526",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/NDR-NI.png"
+    },
+    "image_teaser": {
+      "hash": "96165b6126146f72d0ccf249574b54c8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/NDR-NI.png"
+    }
+  },
+  {
+    "id": "BR",
+    "name": "BR",
+    "name_short": "BR",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "cd0cc72e0cd228d7c8b1702c74188fa7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BR-S.png"
+    },
+    "image_large": {
+      "hash": "d2e301ea62f10507ffff1178a4ce60de",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BR-S.png"
+    },
+    "image_livetv-small": {
+      "hash": "6a62791a90138b9bc6b51aa1b14b8872",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/BR-S.png"
+    },
+    "image_livetv-large": {
+      "hash": "cc0a2c687f5ce6219413b2653ef24232",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/BR-S.png"
+    },
+    "image_mono": {
+      "hash": "d56b709aa17ddbb602a443e6efb5b2f9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/BR-S.png"
+    },
+    "image_teaser": {
+      "hash": "ba8515d364f3b50405afe8a3db401410",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/BR-S.png"
+    }
+  },
+  {
+    "id": "SWR",
+    "name": "SWR",
+    "name_short": "SWR",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "510a0b7baa3797a64082bc3dfa79da8b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SWRBW.png"
+    },
+    "image_large": {
+      "hash": "0a414b5b866dc73f50ac9adc6c89dcc0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SWRBW.png"
+    },
+    "image_livetv-small": {
+      "hash": "510a0b7baa3797a64082bc3dfa79da8b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SWRBW.png"
+    },
+    "image_livetv-large": {
+      "hash": "0a414b5b866dc73f50ac9adc6c89dcc0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SWRBW.png"
+    },
+    "image_mono": {
+      "hash": "32b5002e931f53fd2b884b6653833ad2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SWRBW.png"
+    },
+    "image_teaser": {
+      "hash": "7a7f86b5c09d5f7cce3e60adba50d500",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SWRBW.png"
+    }
+  },
+  {
+    "id": "HR",
+    "name": "HR",
+    "name_short": "HR",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "62250029cd6c9fe477437a2b4ce854c1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HR.png"
+    },
+    "image_large": {
+      "hash": "8c1c9352ae39f37cf46d70d6c2eb1c79",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HR.png"
+    },
+    "image_livetv-small": {
+      "hash": "62250029cd6c9fe477437a2b4ce854c1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/HR.png"
+    },
+    "image_livetv-large": {
+      "hash": "de2468229ef9055efb3eb785c432bac5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/HR.png"
+    },
+    "image_mono": {
+      "hash": "1161777b0a069ddb5f4f5c4f3056321d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/HR.png"
+    },
+    "image_teaser": {
+      "hash": "7beeb3a34a38599e233407c7230292a3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/HR.png"
+    }
+  },
+  {
+    "id": "MDR",
+    "name": "MDR",
+    "name_short": "MDR",
+    "category": "Dritte Programme",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "4cb7e9fbbd4d53db5a87ac381a40c010",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MDR-SN.png"
+    },
+    "image_large": {
+      "hash": "33df7aab72296952a87b6b02b1525414",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MDR-SN.png"
+    },
+    "image_livetv-small": {
+      "hash": "71db438ac7172e2c411ffb51f0085ddf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/MDR-SN.png"
+    },
+    "image_livetv-large": {
+      "hash": "f8086178c8bd70121eff8d66d67cee26",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/MDR-SN.png"
+    },
+    "image_mono": {
+      "hash": "89ae2249513103244061318a26dd6355",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/MDR-SN.png"
+    },
+    "image_teaser": {
+      "hash": "ea6720909663f7df3582fbd356f79d94",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/MDR-SN.png"
+    }
+  },
+  {
+    "id": "RBB",
+    "name": "RBB",
+    "name_short": "RBB",
+    "category": "Dritte Programme ",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "c25f304a6d139b31e9ff1c45522a14f1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RBB-B.png"
+    },
+    "image_large": {
+      "hash": "b2ea049e8c31e0fe650dda94f002fae1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RBB-B.png"
+    },
+    "image_livetv-small": {
+      "hash": "5a7ce4c2e0c053d1320337cd559c377c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RBB-B.png"
+    },
+    "image_livetv-large": {
+      "hash": "a67d10eeba6c47e531c17fd94764597a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RBB-B.png"
+    },
+    "image_mono": {
+      "hash": "344c4096edac7e2f98041f676e81e17f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RBB-B.png"
+    },
+    "image_teaser": {
+      "hash": "d1299f377ce73507cd26d5c08beb1536",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RBB-B.png"
+    }
+  },
+  {
+    "id": "SPORT",
+    "name": "SPORT1",
+    "name_short": "SPORT1",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9327c3422b0b4722cc54efd682a370da",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SPORT.png"
+    },
+    "image_large": {
+      "hash": "eb15cc3e7d93c50b041df6a13de9714a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SPORT.png"
+    },
+    "image_livetv-small": {
+      "hash": "9327c3422b0b4722cc54efd682a370da",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SPORT.png"
+    },
+    "image_livetv-large": {
+      "hash": "c8e6da93948afdd3b9a466bc03690232",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SPORT.png"
+    },
+    "image_mono": {
+      "hash": "e564a2ba7683338dea72420be596d2b8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SPORT.png"
+    },
+    "image_teaser": {
+      "hash": "602be5d46bcd63a525c515f080edd255",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SPORT.png"
+    }
+  },
+  {
+    "id": "S1PLU",
+    "name": "SPORT1+",
+    "name_short": "SPORT1+",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "24644fb7e8ad9002b8920d9961c2e90e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/S1PLU.png"
+    },
+    "image_large": {
+      "hash": "3d6a10ed2312f5c3b2eaa2b5f89e8d9b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/S1PLU.png"
+    }
+  },
+  {
+    "id": "ES1",
+    "name": "eSports1",
+    "name_short": "eSports1",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c1f270a6790ca45a2c917f9e8e933245",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ES1.png"
+    },
+    "image_large": {
+      "hash": "9bc364b08283b52d65642103faabdecb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ES1.png"
+    }
+  },
+  {
+    "id": "EURO",
+    "name": "Eurosport 1",
+    "name_short": "EURO1",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "bd37590da1967fb337d72893d364284c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EURO.png"
+    },
+    "image_large": {
+      "hash": "0dfa6fb5a4434475a28ae39c4f9c105e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EURO.png"
+    },
+    "image_livetv-small": {
+      "hash": "bd37590da1967fb337d72893d364284c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/EURO.png"
+    },
+    "image_livetv-large": {
+      "hash": "0dfa6fb5a4434475a28ae39c4f9c105e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/EURO.png"
+    },
+    "image_mono": {
+      "hash": "5ccd2d4aca4f58f8954e27b9139bc249",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/EURO.png"
+    },
+    "image_teaser": {
+      "hash": "20897814ebb5f024becb4a146e61b015",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/EURO.png"
+    }
+  },
+  {
+    "id": "EURO2",
+    "name": "Eurosport 2",
+    "name_short": "EURO2",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e79839709d63643d7e59e5b882ea2b8d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EURO2.png"
+    },
+    "image_large": {
+      "hash": "61a13357f589a1b80a4148d8b0440204",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EURO2.png"
+    }
+  },
+  {
+    "id": "EX-SP",
+    "name": "EXTREME SPORTS",
+    "name_short": "EX SPORTS",
+    "category": "Sportsender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c4f09cf7fa3dfac4441cad071ff8d730",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EX-SP.png"
+    },
+    "image_large": {
+      "hash": "29b4e2581cfcf853e9a961fdc91e0996",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EX-SP.png"
+    }
+  },
+  {
+    "id": "SPO-D",
+    "name": "sportdigital",
+    "name_short": "SPORT DIGITAL",
+    "category": "Sportsender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d0815a5c3ee91fc768a07334878c06d5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SPO-D.png"
+    },
+    "image_large": {
+      "hash": "5b250681598e2dc6f30776d4fae1d45c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SPO-D.png"
+    }
+  },
+  {
+    "id": "DAZN",
+    "name": "DAZN",
+    "name_short": "DAZN",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "880c302dd3f54d013cc4225a880d6674",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DAZN.png"
+    },
+    "image_large": {
+      "hash": "5bf5214bd6ebb72a4d960a09704f3b22",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DAZN.png"
+    }
+  },
+  {
+    "id": "SNHD",
+    "name": "Sky Sport News HD",
+    "name_short": "SKY S-NEWS",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "fcd2951f596ebc929e83b2839a0faaea",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SNHD.png"
+    },
+    "image_large": {
+      "hash": "2cdf49ceba24105ab9056e8ec5d27dcd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SNHD.png"
+    },
+    "image_livetv-small": {
+      "hash": "883c2f78fca4831affa2d3b7a81db275",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SNHD.png"
+    },
+    "image_livetv-large": {
+      "hash": "fb6bf835fccd1f6a31e901f467782c44",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SNHD.png"
+    },
+    "image_mono": {
+      "hash": "253c6000de328e27157b171a76f74367",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SNHD.png"
+    },
+    "image_teaser": {
+      "hash": "36ccaa68a9491658803c8a86bc56c808",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SNHD.png"
+    }
+  },
+  {
+    "id": "AMS",
+    "name": "Auto Motor Sport",
+    "name_short": "AMS",
+    "category": "Sportsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a1cf714cc0d4d7141ed9f7927b674caa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/AMS.png"
+    },
+    "image_large": {
+      "hash": "4640059066f0886ab667befc639241ca",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/AMS.png"
+    }
+  },
+  {
+    "id": "KIKA",
+    "name": "KiKA",
+    "name_short": "KIKA",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "40bc305ef67c41226468a83c8f7b682e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/KIKA.png"
+    },
+    "image_large": {
+      "hash": "049029dc009439e4c1a9f3926e5cdb0b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/KIKA.png"
+    },
+    "image_livetv-small": {
+      "hash": "40bc305ef67c41226468a83c8f7b682e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/KIKA.png"
+    },
+    "image_livetv-large": {
+      "hash": "78fd8c8472b1828a9b4252bee43bd740",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/KIKA.png"
+    },
+    "image_mono": {
+      "hash": "784b5c6be4905010b85f4e0596d754b1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/KIKA.png"
+    },
+    "image_teaser": {
+      "hash": "5e3dd8ee6e3434305e759409a7b23604",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/KIKA.png"
+    }
+  },
+  {
+    "id": "SUPER",
+    "name": "SUPER RTL",
+    "name_short": "SUPER RTL",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "ed6df4c6b1cf87dec49f5bc4aa0d4daf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SUPER.png"
+    },
+    "image_large": {
+      "hash": "851b62f6a5f9492b102b01df2db57d5e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SUPER.png"
+    },
+    "image_livetv-small": {
+      "hash": "0f3b3f3105157ccd232ec20e89456daf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/SUPER.png"
+    },
+    "image_livetv-large": {
+      "hash": "f4ea9dd9ef8ab129644d8694f40cef69",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/SUPER.png"
+    },
+    "image_mono": {
+      "hash": "5c43d5beb6aa996345b2d0a36c3b5cf8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/SUPER.png"
+    },
+    "image_teaser": {
+      "hash": "9f43f2047b5b559fa720b6c26f68d3dd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/SUPER.png"
+    }
+  },
+  {
+    "id": "TOGGO",
+    "name": "TOGGO plus",
+    "name_short": "TOGGO",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "e6c2b553e5cce2755792be99337d35d1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TOGGO.png"
+    },
+    "image_large": {
+      "hash": "2f316cb4bc7f770638034bc195010028",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TOGGO.png"
+    },
+    "image_livetv-small": {
+      "hash": "4866446c774a5d66b1d05153a2d66825",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/TOGGO.png"
+    },
+    "image_livetv-large": {
+      "hash": "8648f098933d803c53a08330f40f74f8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/TOGGO.png"
+    },
+    "image_mono": {
+      "hash": "2147f581ff2164265b9c0d2799e89a68",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/TOGGO.png"
+    },
+    "image_teaser": {
+      "hash": "de3215d77b3f61cd66cd7b4a1c4a4720",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/TOGGO.png"
+    }
+  },
+  {
+    "id": "RIC",
+    "name": "RiC",
+    "name_short": "RIC",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "8038a6187abbcc27ff9f1a24642db5b9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RIC.png"
+    },
+    "image_large": {
+      "hash": "5e6cb45a085e1c68a52a1c0a10b93c9f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RIC.png"
+    },
+    "image_livetv-small": {
+      "hash": "e537ae3fb87d416cd1d5fe19887e7939",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/RIC.png"
+    },
+    "image_livetv-large": {
+      "hash": "3e5594d30095b7458e3fe124acab71d4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/RIC.png"
+    },
+    "image_mono": {
+      "hash": "ebb2e00a70b5b2123709a96be57087a2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/RIC.png"
+    },
+    "image_teaser": {
+      "hash": "1c5b4dda35b9cd87a12baee56986fcba",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/RIC.png"
+    }
+  },
+  {
+    "id": "NICK",
+    "name": "nick",
+    "name_short": "NICK",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4a43ddf7278ee7e098676796cd4741bf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NICK.png"
+    },
+    "image_large": {
+      "hash": "4d5bf36f8925029916ba5d4af934af90",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NICK.png"
+    }
+  },
+  {
+    "id": "FFTV",
+    "name": "Fix & Foxi",
+    "name_short": "FIX FOXI",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "3b5c8bd515e82cde87a6bea6a21d265c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FFTV.png"
+    },
+    "image_large": {
+      "hash": "198302884d2b428aa35942dd09280cea",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FFTV.png"
+    },
+    "image_livetv-small": {
+      "hash": "2b114ae3e8318a9f220f3ad3237e84bb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/FFTV.png"
+    },
+    "image_livetv-large": {
+      "hash": "7f36be480a00964a23bdeb1207e4b22d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/FFTV.png"
+    },
+    "image_mono": {
+      "hash": "fb9523efa22ca4cbf2adeb89ba0934a9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/FFTV.png"
+    },
+    "image_teaser": {
+      "hash": "2d1c877ba25c651ef637c9c23d0ec2c6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/FFTV.png"
+    }
+  },
+  {
+    "id": "NICKJ",
+    "name": "Nick Jr.",
+    "name_short": "NICK JR",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "db3c15dce6bcbf47169439b78b4bdf2d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NICKJ.png"
+    },
+    "image_large": {
+      "hash": "e621ccc5c5f011665208b60f59a513ee",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NICKJ.png"
+    }
+  },
+  {
+    "id": "NICKT",
+    "name": "Nicktoons",
+    "name_short": "NICK TOONS",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "65ea21f422b83751dd773c909266fc93",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NICKT.png"
+    },
+    "image_large": {
+      "hash": "5398ce485482825e8d89b75cb22de8c4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NICKT.png"
+    }
+  },
+  {
+    "id": "DISNE",
+    "name": "Disney Channel",
+    "name_short": "DISNEY",
+    "category": "Kindersender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "aa331f96bc2c158629be2606b0c14132",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DISNE.png"
+    },
+    "image_large": {
+      "hash": "ec20c8ee4c2cad2a6174daf616c4d755",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DISNE.png"
+    }
+  },
+  {
+    "id": "PHOEN",
+    "name": "PHOENIX",
+    "name_short": "PHOENIX",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "315976e7edf1e0b75767d45ae4a61f13",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PHOEN.png"
+    },
+    "image_large": {
+      "hash": "1e8afe2b963745a39f98656da584008b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PHOEN.png"
+    },
+    "image_livetv-small": {
+      "hash": "d6ac6345a6631957fd8a95e21565b629",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/PHOEN.png"
+    },
+    "image_livetv-large": {
+      "hash": "d6fb327e87b5d1a92940d81b663abcb8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/PHOEN.png"
+    },
+    "image_mono": {
+      "hash": "7d16f237db5f2bd32bc58b21c0d8476e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/PHOEN.png"
+    },
+    "image_teaser": {
+      "hash": "b9378bd1df3139bd66155b309894fd06",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/PHOEN.png"
+    }
+  },
+  {
+    "id": "ALPHA",
+    "name": "ARD alpha",
+    "name_short": "ARD ALPHA",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "da9fcde3ac7cc2aa960703b10e425cc6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ALPHA.png"
+    },
+    "image_large": {
+      "hash": "4d1ffe174bf47bc9596930fb03c7a3ab",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ALPHA.png"
+    },
+    "image_livetv-small": {
+      "hash": "da9fcde3ac7cc2aa960703b10e425cc6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ALPHA.png"
+    },
+    "image_livetv-large": {
+      "hash": "dc7a14acc13b009aef9422e2de9537ad",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ALPHA.png"
+    },
+    "image_mono": {
+      "hash": "01ae325218a9ad04c3e033f635bd0017",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ALPHA.png"
+    },
+    "image_teaser": {
+      "hash": "c089f0155032a816688d06cc31893ef6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ALPHA.png"
+    }
+  },
+  {
+    "id": "FES",
+    "name": "ONE",
+    "name_short": "ONE",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9724f928ef9144259cd188ace7da0600",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FES.png"
+    },
+    "image_large": {
+      "hash": "f98d67bc21e1071c48b4bf635237ab3c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FES.png"
+    },
+    "image_livetv-small": {
+      "hash": "9724f928ef9144259cd188ace7da0600",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/FES.png"
+    },
+    "image_livetv-large": {
+      "hash": "f98d67bc21e1071c48b4bf635237ab3c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/FES.png"
+    },
+    "image_mono": {
+      "hash": "14cbdfd9a62541de192723776ad0d8ff",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/FES.png"
+    },
+    "image_teaser": {
+      "hash": "6289789b298464f7af1e5939d3bb9f63",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/FES.png"
+    }
+  },
+  {
+    "id": "2NEO",
+    "name": "ZDFneo",
+    "name_short": "ZDF NEU",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9d25f1951b4c783200715605e9e2ba13",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/2NEO.png"
+    },
+    "image_large": {
+      "hash": "29da65f7569c2a4c35d19ef7e6ccc546",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/2NEO.png"
+    },
+    "image_livetv-small": {
+      "hash": "4fb272b94e0c60e8dbe14d6fe1478497",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/2NEO.png"
+    },
+    "image_livetv-large": {
+      "hash": "0ff91e58b69d8ac89f5a20a2fc1b88de",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/2NEO.png"
+    },
+    "image_mono": {
+      "hash": "24c7bf25dd1c93cbe0de48ca8f3aec11",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/2NEO.png"
+    },
+    "image_teaser": {
+      "hash": "64a5350c34f4192e3c296b1f30d3e249",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/2NEO.png"
+    }
+  },
+  {
+    "id": "ZINFO",
+    "name": "ZDFinfo",
+    "name_short": "ZDF INFO",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "dc0be82c8589f4a13e523042964ee011",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ZINFO.png"
+    },
+    "image_large": {
+      "hash": "bb590fa376f56d9da4e62f32376843da",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ZINFO.png"
+    },
+    "image_livetv-small": {
+      "hash": "dc0be82c8589f4a13e523042964ee011",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ZINFO.png"
+    },
+    "image_livetv-large": {
+      "hash": "4a875d2d17f20cf8613af0a117c92e09",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ZINFO.png"
+    },
+    "image_mono": {
+      "hash": "2161eca1739d5f5eab9b43f900297f5f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ZINFO.png"
+    },
+    "image_teaser": {
+      "hash": "51f7d5de3f25dae0b0af09e3ff0fcbbd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ZINFO.png"
+    }
+  },
+  {
+    "id": "DWTV",
+    "name": "DW (Europe)",
+    "name_short": "DW",
+    "category": "Spartensender",
+    "is_premium": true,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "14aa1cc9d4fc762473fc695783e0c81f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DWTV.png"
+    },
+    "image_large": {
+      "hash": "facb33220444aca436fe63066ba321a8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DWTV.png"
+    },
+    "image_livetv-small": {
+      "hash": "de6b68187a8e6bc1ed1d2e07b9137f5c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/DWTV.png"
+    },
+    "image_livetv-large": {
+      "hash": "d22aa4b95ffc79f82656b57144635201",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/DWTV.png"
+    },
+    "image_mono": {
+      "hash": "247b879968d31d9cfe81ac6b3cfcc055",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/DWTV.png"
+    },
+    "image_teaser": {
+      "hash": "cf5bc94694b2bc8147155b3d15cbe0e4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/DWTV.png"
+    }
+  },
+  {
+    "id": "ANIXE",
+    "name": "ANIXE",
+    "name_short": "ANIXE",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8a2c27bfd5aef76e97a03bf6c56266d5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ANIXE.png"
+    },
+    "image_large": {
+      "hash": "c50fde31690b058de1b014eaceab96f6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ANIXE.png"
+    }
+  },
+  {
+    "id": "ZEE-1",
+    "name": "Zee.One",
+    "name_short": "ZEE.ONE",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9aac228cb2a468bbec7b0c2d29723bcb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ZEE-1.png"
+    },
+    "image_large": {
+      "hash": "a6380cd1813689171d685a446ed1effc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ZEE-1.png"
+    },
+    "image_livetv-small": {
+      "hash": "1bef9b592676fc37623d1e926eee2bde",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ZEE-1.png"
+    },
+    "image_livetv-large": {
+      "hash": "a41adab0cf28f7d51d02d9651ca7495d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ZEE-1.png"
+    },
+    "image_mono": {
+      "hash": "d0c335098f1c2dc8ed35d7e348e44f3f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ZEE-1.png"
+    },
+    "image_teaser": {
+      "hash": "abd0be582931ec087623c8e0f0b9e5d3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ZEE-1.png"
+    }
+  },
+  {
+    "id": "BIBEL",
+    "name": "Bibel TV",
+    "name_short": "BIBEL TV",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "c680bb4ec31d4d5affaf51b429386a48",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BIBEL.png"
+    },
+    "image_large": {
+      "hash": "3207a596a5f14bfea9c8f24b55075e1f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BIBEL.png"
+    },
+    "image_livetv-small": {
+      "hash": "fd04e1bf034d6a78737281513a56ea2e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/BIBEL.png"
+    },
+    "image_livetv-large": {
+      "hash": "fead15a283ec517ed004038070a5ec97",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/BIBEL.png"
+    },
+    "image_mono": {
+      "hash": "c43ef455710309032e0f6eb873b1382a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/BIBEL.png"
+    },
+    "image_teaser": {
+      "hash": "5402032fe67ef2bc9149bc15fc023ef8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/BIBEL.png"
+    }
+  },
+  {
+    "id": "KTV",
+    "name": "K-TV",
+    "name_short": "K-TV",
+    "category": "Spartensender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "3d19f8f201b05de30c6f3b66e70e9063",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/KTV.png"
+    },
+    "image_large": {
+      "hash": "a42dbdec2abd2be3e6648b501c6e40de",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/KTV.png"
+    }
+  },
+  {
+    "id": "TLC",
+    "name": "TLC",
+    "name_short": "TLC",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "27bf80c4a2af912dd12dfec8795ffc5a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TLC.png"
+    },
+    "image_large": {
+      "hash": "32b9254ffc0013e290590b50b19af91f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TLC.png"
+    },
+    "image_livetv-small": {
+      "hash": "ac74918e94aa2b8a6b02ace530f52e30",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/TLC.png"
+    },
+    "image_livetv-large": {
+      "hash": "75162fd806a4b498875b7221ac5a54d0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/TLC.png"
+    },
+    "image_mono": {
+      "hash": "6955e7f34cf2e08a1312cb9115f5c96b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/TLC.png"
+    },
+    "image_teaser": {
+      "hash": "e89edb3975f08fce94a8678ae936c997",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/TLC.png"
+    }
+  },
+  {
+    "id": "WDWTV",
+    "name": "Welt der Wunder TV",
+    "name_short": "WDW TV",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "d093330f6ea51e57f4731766014299bc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/WDWTV.png"
+    },
+    "image_large": {
+      "hash": "2640780f870e1c17069fc9e3b6305e37",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/WDWTV.png"
+    },
+    "image_livetv-small": {
+      "hash": "d093330f6ea51e57f4731766014299bc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/WDWTV.png"
+    },
+    "image_livetv-large": {
+      "hash": "2640780f870e1c17069fc9e3b6305e37",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/WDWTV.png"
+    },
+    "image_mono": {
+      "hash": "d4b9c846828882034d0ac9e23361a1e4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/WDWTV.png"
+    },
+    "image_teaser": {
+      "hash": "fe41290fd58030dfea962513e1838b35",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/WDWTV.png"
+    }
+  },
+  {
+    "id": "PLANE",
+    "name": "Planet",
+    "name_short": "PLANET",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f952c94bd09df6fccb5906ec1dc7a0a4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PLANE.png"
+    },
+    "image_large": {
+      "hash": "c3d5d580a92aaba57532167d0bc87b2e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PLANE.png"
+    }
+  },
+  {
+    "id": "EOTV",
+    "name": "eoTV",
+    "name_short": "EOTV",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "1d559a389892b2cd4157b0b601ea0961",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EOTV.png"
+    },
+    "image_large": {
+      "hash": "19fdaf5b7201e75777e728620a111324",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EOTV.png"
+    },
+    "image_livetv-small": {
+      "hash": "0986b390ab283794d1885a9c6844d395",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/EOTV.png"
+    },
+    "image_livetv-large": {
+      "hash": "b578fc87451e25195cb12416a01dae05",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/EOTV.png"
+    },
+    "image_mono": {
+      "hash": "b87ff09919b03527a7f0efe754b973c7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/EOTV.png"
+    },
+    "image_teaser": {
+      "hash": "8378fc8930ca7aae555a63102a24edb1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/EOTV.png"
+    }
+  },
+  {
+    "id": "GUSTO",
+    "name": "Bon Gusto",
+    "name_short": "BON GUSTO",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b31d3468b45e10227a38100204742212",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/GUSTO.png"
+    },
+    "image_large": {
+      "hash": "96b345af47d96de83685a8859cc4b127",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/GUSTO.png"
+    }
+  },
+  {
+    "id": "GOLD",
+    "name": "Goldstar TV",
+    "name_short": "GOLD STAR",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "8e5097cb3b5e2df646075e17f0554a90",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/GOLD.png"
+    },
+    "image_large": {
+      "hash": "e0d3d9f7fb47bf09b1987f4f5c7f0c7a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/GOLD.png"
+    },
+    "image_livetv-small": {
+      "hash": "4413549de3c2f113634eb01759babe70",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/GOLD.png"
+    },
+    "image_livetv-large": {
+      "hash": "50632ea40dd0624758113e2f87eb9910",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/GOLD.png"
+    },
+    "image_mono": {
+      "hash": "e6ac2e9fd6d6f8d6323affbc150759e7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/GOLD.png"
+    },
+    "image_teaser": {
+      "hash": "24377d4d6c951e1e3e53555c3f8d3b7c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/GOLD.png"
+    }
+  },
+  {
+    "id": "HGTV",
+    "name": "Home & Garden TV",
+    "name_short": "HOME&GARDEN",
+    "category": "Spartensender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "19a83f85a6cd613fc01e30aa56ac4cff",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HGTV.png"
+    },
+    "image_large": {
+      "hash": "18f21d24c0b64aceeb65a3f433067719",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HGTV.png"
+    }
+  },
+  {
+    "id": "FLN",
+    "name": "Fine Living Network",
+    "name_short": "FINE LIVING",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "56c8c0d05333a29377b9c8773852187f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FLN.png"
+    },
+    "image_large": {
+      "hash": "5ba5598346c97a246193441dbbf8943c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FLN.png"
+    }
+  },
+  {
+    "id": "MAPO",
+    "name": "Marco Polo TV",
+    "name_short": "MAPO TV",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ea5409c9f527f2a3a4e5540d6ca97f89",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MAPO.png"
+    },
+    "image_large": {
+      "hash": "7d44d9933bd71388352dbd08d34e9dab",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MAPO.png"
+    }
+  },
+  {
+    "id": "TRAVELXP",
+    "name": "travelxp 4K",
+    "name_short": "TRAVELXP",
+    "category": "Spartensender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "1b776d2e3a2fef2fec6e414f678c74a6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TRAVELXP.png"
+    },
+    "image_large": {
+      "hash": "2c0a9457faf2ee3f9e94b47c04858c2f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TRAVELXP.png"
+    }
+  },
+  {
+    "id": "HEALTH",
+    "name": "Health TV",
+    "name_short": "HEALTH",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ba369645e185a0c3e9c4277aafbecf4f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HEALTH.png"
+    },
+    "image_large": {
+      "hash": "84d046b509599e82d3f83ff886bbee76",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HEALTH.png"
+    }
+  },
+  {
+    "id": "RBTV",
+    "name": "Rocket Beans TV",
+    "name_short": "RBTV",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e6e37280e329e8c6c4c46fd34bccb6c1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RBTV.png"
+    },
+    "image_large": {
+      "hash": "fa0a43f1c8b566ab08fbd60d31addcb1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RBTV.png"
+    }
+  },
+  {
+    "id": "UHD1",
+    "name": "UHD1",
+    "name_short": "UHD1",
+    "category": "Spartensender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "51bda627c4c6acf18f11de27bda3a9dc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/UHD1.png"
+    },
+    "image_large": {
+      "hash": "d77c3a9455fc97bcccaba52fe75a0ab1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/UHD1.png"
+    }
+  },
+  {
+    "id": "TAG24",
+    "name": "tagesschau24",
+    "name_short": "TAG24",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": true,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "a82567fdca1875c07756b48ba3e533f8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TAG24.png"
+    },
+    "image_large": {
+      "hash": "9d44c381bb4819b0a54e93233005df97",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TAG24.png"
+    },
+    "image_livetv-small": {
+      "hash": "6f77400166b315ccf1e27bef6ecd3f9b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/TAG24.png"
+    },
+    "image_livetv-large": {
+      "hash": "628b4d7e0e1a7bb85de0ee1ad0fd4573",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/TAG24.png"
+    },
+    "image_mono": {
+      "hash": "db1385d8ee88d0ca9cbd55774b35770f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/TAG24.png"
+    },
+    "image_teaser": {
+      "hash": "76cc83755dbeab0508450316e69d6f4d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/TAG24.png"
+    }
+  },
+  {
+    "id": "NTV",
+    "name": "n-tv",
+    "name_short": "N-TV",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "3fa2302e9290a8981b66a15217526b16",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NTV.png"
+    },
+    "image_large": {
+      "hash": "853a1bdb9558527cc9466c56719646f4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NTV.png"
+    },
+    "image_livetv-small": {
+      "hash": "6be149fc1e0ce3f9342d270f9e8bb9f9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/NTV.png"
+    },
+    "image_livetv-large": {
+      "hash": "97ce5463c84d962972f79b9bd08aac56",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/NTV.png"
+    },
+    "image_mono": {
+      "hash": "eedc0095d00f740ad8c6ffdf4112af2b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/NTV.png"
+    },
+    "image_teaser": {
+      "hash": "9aec6e786a63c9fa18660eeb5fcf5870",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/NTV.png"
+    }
+  },
+  {
+    "id": "WELT",
+    "name": "WELT",
+    "name_short": "WELT",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "beabc2006e53612f23f341c0e923febd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/WELT.png"
+    },
+    "image_large": {
+      "hash": "c4f5902bb7e71b7852ad1e50910ed6f0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/WELT.png"
+    },
+    "image_livetv-small": {
+      "hash": "1b399cd7e9a11de41d2d98b8e4c44a97",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/WELT.png"
+    },
+    "image_livetv-large": {
+      "hash": "a8e91aebfea233a6a85540223e5a2e9e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/WELT.png"
+    },
+    "image_mono": {
+      "hash": "db48c898e8facb82ef88c81ecf29f120",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/WELT.png"
+    },
+    "image_teaser": {
+      "hash": "88a8010a2638343e059cd6961fbd7c32",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/WELT.png"
+    }
+  },
+  {
+    "id": "N24DOKU",
+    "name": "N24 Doku",
+    "name_short": "N24 DOKU",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d28648b1836deed73f084131c64d2bb1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/N24DOKU.png"
+    },
+    "image_large": {
+      "hash": "6b77cae4bfaa6dbece666c0207a88555",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/N24DOKU.png"
+    }
+  },
+  {
+    "id": "K1DOKU",
+    "name": "kabel eins Doku",
+    "name_short": "K1 DOKU",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "9a53e31af3ca23f1de88693732a62eaf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/K1DOKU.png"
+    },
+    "image_large": {
+      "hash": "47e694c55a54f8580f1d3b02c1c5ed28",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/K1DOKU.png"
+    }
+  },
+  {
+    "id": "BBC",
+    "name": "BBC World News",
+    "name_short": "BBC",
+    "category": "News und Dokus",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4437b73f486924540753e857b7a32cf7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC.png"
+    },
+    "image_large": {
+      "hash": "3e0255caeb9e05f65a76b257887bafaa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC.png"
+    }
+  },
+  {
+    "id": "BBC-N",
+    "name": "BBC News",
+    "name_short": "BBC-N",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "997b025079de2abb0991d5e46eeecdd3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC-N.png"
+    },
+    "image_large": {
+      "hash": "9c2c2a8ca4ac28150228a2bfce1ff18a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC-N.png"
+    }
+  },
+  {
+    "id": "BLM",
+    "name": "Bloomberg Europe TV",
+    "name_short": "BLOOM BERG",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b026573b37f30b0e84b9b226c4ea7029",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BLM.png"
+    },
+    "image_large": {
+      "hash": "4d09b9ae2715b65350d16fc3314d48fa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BLM.png"
+    }
+  },
+  {
+    "id": "CNBC",
+    "name": "CNBC",
+    "name_short": "CNBC",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "9709e8d44a4c0d0ac0128b5ca8e5ca03",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CNBC.png"
+    },
+    "image_large": {
+      "hash": "c0157b749c04ff0df14956976fc9bcb4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CNBC.png"
+    },
+    "image_livetv-small": {
+      "hash": "b7dd146a7e1512d41ca7a9b29d8f5b61",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/CNBC.png"
+    },
+    "image_livetv-large": {
+      "hash": "4efb02bf3b6119b32115722b8c8b76d2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/CNBC.png"
+    },
+    "image_mono": {
+      "hash": "08816e11e919230d01bd5a88d8ac26f0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/CNBC.png"
+    },
+    "image_teaser": {
+      "hash": "8cd736e9b3ad8bbbe2d87ba9e2278e6f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/CNBC.png"
+    }
+  },
+  {
+    "id": "CNN",
+    "name": "CNN International",
+    "name_short": "CNN",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "06b35e9e1f7ae0e088f817e337dc806a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CNN.png"
+    },
+    "image_large": {
+      "hash": "3191fdf3884e3e715f07f8e7caed067a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CNN.png"
+    },
+    "image_livetv-small": {
+      "hash": "7ab63e7854bc28708595ec8f1d9415ee",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/CNN.png"
+    },
+    "image_livetv-large": {
+      "hash": "8eb1825970226cdaad8f868650f28e1d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/CNN.png"
+    },
+    "image_mono": {
+      "hash": "9e896f8a721a9a7e4bcad539b06607b6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/CNN.png"
+    },
+    "image_teaser": {
+      "hash": "758c5616528318d570167cfdcbd7399e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/CNN.png"
+    }
+  },
+  {
+    "id": "CNN-M",
+    "name": "CNN Money",
+    "name_short": "CNN-M",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a5f790637de44fed12982d81fe822148",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CNN-M.png"
+    },
+    "image_large": {
+      "hash": "2af800dbaff06431bc7b13563a01a65e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CNN-M.png"
+    }
+  },
+  {
+    "id": "CNN-T",
+    "name": "CNN Türk",
+    "name_short": "CNN-T",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c3c4e6618c38dad7c4595456fb3f7aca",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CNN-T.png"
+    },
+    "image_large": {
+      "hash": "120e23d0644897bc495132c7a9a6c60f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CNN-T.png"
+    }
+  },
+  {
+    "id": "ENGB",
+    "name": "euronews (en)",
+    "name_short": "EURO NEWS",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "8b4d56bc337bbfdb0929a11f0fe31314",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ENGB.png"
+    },
+    "image_large": {
+      "hash": "7fc4407541a89576523d616d4ff1b6b3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ENGB.png"
+    },
+    "image_livetv-small": {
+      "hash": "a1dff2ae5493a2e99f4607a8a1aa0972",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ENGB.png"
+    },
+    "image_livetv-large": {
+      "hash": "ed034002813c83a600981bfef3e0f7ac",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ENGB.png"
+    },
+    "image_mono": {
+      "hash": "723679bc1fc372938ca29ba8cc230d16",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ENGB.png"
+    },
+    "image_teaser": {
+      "hash": "6565efd014e988f92a552f3250da3283",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ENGB.png"
+    }
+  },
+  {
+    "id": "EURON",
+    "name": "euronews (ger)",
+    "name_short": "EURO NEWS",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "8b4d56bc337bbfdb0929a11f0fe31314",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EURON.png"
+    },
+    "image_large": {
+      "hash": "7fc4407541a89576523d616d4ff1b6b3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EURON.png"
+    },
+    "image_livetv-small": {
+      "hash": "a1dff2ae5493a2e99f4607a8a1aa0972",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/EURON.png"
+    },
+    "image_livetv-large": {
+      "hash": "ed034002813c83a600981bfef3e0f7ac",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/EURON.png"
+    },
+    "image_mono": {
+      "hash": "723679bc1fc372938ca29ba8cc230d16",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/EURON.png"
+    },
+    "image_teaser": {
+      "hash": "6565efd014e988f92a552f3250da3283",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/EURON.png"
+    }
+  },
+  {
+    "id": "ALJAZ",
+    "name": "Al Jazeera",
+    "name_short": "AL JAZ",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "85a34e0cdc5af6769b27039bca18b82e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ALJAZ.png"
+    },
+    "image_large": {
+      "hash": "8851335042e1a54ab537ce953822d013",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ALJAZ.png"
+    },
+    "image_livetv-small": {
+      "hash": "1f2851042b31e8122b3f7b3286b5e22a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/ALJAZ.png"
+    },
+    "image_livetv-large": {
+      "hash": "8851335042e1a54ab537ce953822d013",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/ALJAZ.png"
+    },
+    "image_mono": {
+      "hash": "a731e9bc9bd66edcf089a343b5f00be2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/ALJAZ.png"
+    },
+    "image_teaser": {
+      "hash": "b0f8292e06a73e181efe7350ad07d5af",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/ALJAZ.png"
+    }
+  },
+  {
+    "id": "FR24E",
+    "name": "France 24 (engl.)",
+    "name_short": "FR 24E ",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "25d2961398852bcd357bd53d21902b2d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FR24E.png"
+    },
+    "image_large": {
+      "hash": "0cabd424b7ed9abdfc15aef83e356b52",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FR24E.png"
+    },
+    "image_livetv-small": {
+      "hash": "25d2961398852bcd357bd53d21902b2d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/FR24E.png"
+    },
+    "image_livetv-large": {
+      "hash": "0cabd424b7ed9abdfc15aef83e356b52",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/FR24E.png"
+    },
+    "image_mono": {
+      "hash": "4dc5125f9560efa46bd0c68406b4b56d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/FR24E.png"
+    },
+    "image_teaser": {
+      "hash": "7b39788a53216fc8c53fe5ecd74729e0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/FR24E.png"
+    }
+  },
+  {
+    "id": "FR24F",
+    "name": "France 24 (franz.)",
+    "name_short": "FR 24F",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "24bcc2284efed28601af48ae08afb91f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FR24F.png"
+    },
+    "image_large": {
+      "hash": "aea3589f57e06813be350f8a7a19f3ae",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FR24F.png"
+    },
+    "image_livetv-small": {
+      "hash": "24bcc2284efed28601af48ae08afb91f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/FR24F.png"
+    },
+    "image_livetv-large": {
+      "hash": "aea3589f57e06813be350f8a7a19f3ae",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/FR24F.png"
+    },
+    "image_mono": {
+      "hash": "3db63f36bb8d19f4fb0c62a1aeaf02c4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/FR24F.png"
+    },
+    "image_teaser": {
+      "hash": "136167fc51dbe979ad03cec3cb0c0d03",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/FR24F.png"
+    }
+  },
+  {
+    "id": "NHK",
+    "name": "NHK World TV",
+    "name_short": "NHK World",
+    "category": "News und Dokus",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "7a246fd8e469782928523c6848adaea5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NHK.png"
+    },
+    "image_large": {
+      "hash": "9361cee33cbfad8f421e08c6693963f2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NHK.png"
+    }
+  },
+  {
+    "id": "DMC",
+    "name": "DELUXE MUSIC",
+    "name_short": "DELUXE MUSIC",
+    "category": "Musiksender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "66ad0b0eaa291079c187e7af7ae80674",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DMC.png"
+    },
+    "image_large": {
+      "hash": "4b9fe8e239dca315b41787c8b42ec4bc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DMC.png"
+    },
+    "image_livetv-small": {
+      "hash": "72d448562c1fe8f15633e4550fb476dc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/DMC.png"
+    },
+    "image_livetv-large": {
+      "hash": "cb03d95eff9a9f28f018155ab964d6c2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/DMC.png"
+    },
+    "image_mono": {
+      "hash": "009c6b6871e44fd015e4bd1af929ba86",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/DMC.png"
+    },
+    "image_teaser": {
+      "hash": "3edc1b39b222d01febdef1029477a8ef",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/DMC.png"
+    }
+  },
+  {
+    "id": "DMF",
+    "name": "Deutsches Musik Fernsehen",
+    "name_short": "DMF",
+    "category": "Musiksender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "65e7250b3348cf87621ac0781b9a739a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DMF.png"
+    },
+    "image_large": {
+      "hash": "d89dc0efaf82b9543b736522c5262f50",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DMF.png"
+    },
+    "image_livetv-small": {
+      "hash": "5a80b720811f8aca524403f2a4ecfa1b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/DMF.png"
+    },
+    "image_livetv-large": {
+      "hash": "d89dc0efaf82b9543b736522c5262f50",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/DMF.png"
+    },
+    "image_mono": {
+      "hash": "c6c07a1f60ac6111a388e44299a54748",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/DMF.png"
+    },
+    "image_teaser": {
+      "hash": "7335510edb36d3b49add7c4730ce685c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/DMF.png"
+    }
+  },
+  {
+    "id": "MTV",
+    "name": "MTV",
+    "name_short": "MTV",
+    "category": "Musiksender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "1ac8f8276a792ca5d4ff81627d2f0221",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MTV.png"
+    },
+    "image_large": {
+      "hash": "77a11354a8516b18ee65552b1b79eca3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MTV.png"
+    }
+  },
+  {
+    "id": "MTV-L",
+    "name": "MTV Live HD",
+    "name_short": "MTV LIVE",
+    "category": "Musiksender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "6b6846a8fecbb698abde317abecf9a4b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MTV-L.png"
+    },
+    "image_large": {
+      "hash": "3015751462e6e81f7baf240881300e5a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MTV-L.png"
+    }
+  },
+  {
+    "id": "VH1",
+    "name": "VH1 Classic",
+    "name_short": "VH1 CLASSIC",
+    "category": "Musiksender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "eec273d43b8b96811bc6011251086e2c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/VH1.png"
+    },
+    "image_large": {
+      "hash": "90244ddd4726e4556a9979263b403a8b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/VH1.png"
+    }
+  },
+  {
+    "id": "QVC",
+    "name": "QVC",
+    "name_short": "QVC",
+    "category": "Shopping",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "f7e94da602cddb1945e4ccbf02e13f39",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/QVC.png"
+    },
+    "image_large": {
+      "hash": "a4c6a0829b0e8b8e82d6bc6472e0f3a1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/QVC.png"
+    },
+    "image_livetv-small": {
+      "hash": "f7e94da602cddb1945e4ccbf02e13f39",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/QVC.png"
+    },
+    "image_livetv-large": {
+      "hash": "a4c6a0829b0e8b8e82d6bc6472e0f3a1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/QVC.png"
+    },
+    "image_mono": {
+      "hash": "76ab18afe292501518e5999c3c3bc8fc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/QVC.png"
+    },
+    "image_teaser": {
+      "hash": "6573068528a343ba2063750725fb5b4d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/QVC.png"
+    }
+  },
+  {
+    "id": "QVCP",
+    "name": "QVC2",
+    "name_short": "QVC PLUS",
+    "category": "Shopping",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "7189aa48414a7e2a7e5dc19266debb7f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/QVCP.png"
+    },
+    "image_large": {
+      "hash": "5f691ff11c8a68aae002c482b006956a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/QVCP.png"
+    },
+    "image_livetv-small": {
+      "hash": "abf2aad449f9105af7646605acc5cadf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/QVCP.png"
+    },
+    "image_livetv-large": {
+      "hash": "fb6d09980d3a6b154e5d82f69f14038f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/QVCP.png"
+    },
+    "image_mono": {
+      "hash": "e60cd743965782113324fec3902b152e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/QVCP.png"
+    },
+    "image_teaser": {
+      "hash": "bdb548955cb2d7724ed54fa1713e82b3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/QVCP.png"
+    }
+  },
+  {
+    "id": "HSE",
+    "name": "HSE24",
+    "name_short": "HSE24",
+    "category": "Shopping",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "fffda3ba372b8bbc60c9fb4cb1368df5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HSE.png"
+    },
+    "image_large": {
+      "hash": "1e4241b5825c78400a8ae297555cf331",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HSE.png"
+    },
+    "image_livetv-small": {
+      "hash": "fffda3ba372b8bbc60c9fb4cb1368df5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/HSE.png"
+    },
+    "image_livetv-large": {
+      "hash": "09d0c70c80d7bf13f0119194cca9ecd3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/HSE.png"
+    },
+    "image_mono": {
+      "hash": "61fb99119dee2917e95671a28070865b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/HSE.png"
+    },
+    "image_teaser": {
+      "hash": "21c711b2a2db30cb73236dac092c4964",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/HSE.png"
+    }
+  },
+  {
+    "id": "CH21",
+    "name": "Channel21",
+    "name_short": "CHANNEL 21",
+    "category": "Shopping",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": true,
+    "image_small": {
+      "hash": "33672715d400fb6f50dcb741c2fad752",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CH21.png"
+    },
+    "image_large": {
+      "hash": "464876015431c01e4ad3b9a7e414d654",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CH21.png"
+    },
+    "image_livetv-small": {
+      "hash": "33672715d400fb6f50dcb741c2fad752",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-small/CH21.png"
+    },
+    "image_livetv-large": {
+      "hash": "64f009b8d120fe7b5df29493eb28a8f0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-large/CH21.png"
+    },
+    "image_mono": {
+      "hash": "3dcf76c4b9ac45120dcc1b706ff632b1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-mono/CH21.png"
+    },
+    "image_teaser": {
+      "hash": "32c68a67bf7c9f2fee52970e0b35afdd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/live-tv-teaser/CH21.png"
+    }
+  },
+  {
+    "id": "123TV",
+    "name": "123.tv",
+    "name_short": "123.tv",
+    "category": "Shopping",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "95614df1439a575724b6a39f366aeb10",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/123TV.png"
+    },
+    "image_large": {
+      "hash": "bc44c23842b1c2de0b24c15f76f3022d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/123TV.png"
+    }
+  },
+  {
+    "id": "SKLAR",
+    "name": "Sonnenklar.TV",
+    "name_short": "SKLAR",
+    "category": "Shopping",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "98e13ef2fba5ed27cb3005b3c9dde8c7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKLAR.png"
+    },
+    "image_large": {
+      "hash": "b58aa7b460ac00dfb1ff88a3a6d3f366",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKLAR.png"
+    }
+  },
+  {
+    "id": "HH1",
+    "name": "Hamburg 1",
+    "name_short": "HH 1",
+    "category": "Regionalsender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "babc75f2d071b42fdf8f0fa094f6ca43",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HH1.png"
+    },
+    "image_large": {
+      "hash": "58e5e2efa25ac2c5100343510273f68a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HH1.png"
+    }
+  },
+  {
+    "id": "TVM",
+    "name": "münchen.tv",
+    "name_short": "MUC TV",
+    "category": "Regionalsender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "57b7a6703e3b2b3dcd3ca60162e0b0ba",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TVM.png"
+    },
+    "image_large": {
+      "hash": "68b4c93b9cac169fe4d0f6b77ede4584",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TVM.png"
+    }
+  },
+  {
+    "id": "TVB",
+    "name": "tv.berlin",
+    "name_short": "TV BERLIN",
+    "category": "Regionalsender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "939d26e007fefa6f85798a6e67c7261b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TVB.png"
+    },
+    "image_large": {
+      "hash": "710c8156142b39685dde5d860eaa7a68",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TVB.png"
+    }
+  },
+  {
+    "id": "LEITV",
+    "name": "LEIPZIG FERNSEHEN",
+    "name_short": "LEIPZIG",
+    "category": "Regionalsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0e9178eec2754bd9144f6531afffb47e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/LEITV.png"
+    },
+    "image_large": {
+      "hash": "b860b21abe98a8fc4eae95c432353f32",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/LEITV.png"
+    }
+  },
+  {
+    "id": "RMTV",
+    "name": "rheinmaintv",
+    "name_short": "RM TV",
+    "category": "Regionalsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "6d26912cdcc7940a6976a346ab87fdb6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RMTV.png"
+    },
+    "image_large": {
+      "hash": "f021a9af83d6e9a4d06b6b68938296aa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RMTV.png"
+    }
+  },
+  {
+    "id": "RNF",
+    "name": "Rhein-Neckar Fernsehen",
+    "name_short": "RNF",
+    "category": "Regionalsender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "3f4657a8e7e7d9464def02a79047530a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RNF.png"
+    },
+    "image_large": {
+      "hash": "310ffb2a69850fd7f60a3dad376135fc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RNF.png"
+    }
+  },
+  {
+    "id": "ATV",
+    "name": "ATV",
+    "name_short": "ATV",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "1434a210ffdc1bc8c0634881a8e9199b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ATV.png"
+    },
+    "image_large": {
+      "hash": "97d55da4f7120f10a5fcd954bb754ffb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ATV.png"
+    }
+  },
+  {
+    "id": "ATV2",
+    "name": "ATV II",
+    "name_short": "ATV2",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8eb7de60a1fb5cab664f70d42e41619d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ATV2.png"
+    },
+    "image_large": {
+      "hash": "92cf4b59e78945b5f50483df827ada42",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ATV2.png"
+    }
+  },
+  {
+    "id": "ATV-A",
+    "name": "ATV Avrupa",
+    "name_short": "ATV-A",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c591cba02ee764bd5670a75c314420ee",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ATV-A.png"
+    },
+    "image_large": {
+      "hash": "1624ebf1527b547b502296170d76a2f2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ATV-A.png"
+    }
+  },
+  {
+    "id": "BBC1",
+    "name": "BBC One",
+    "name_short": "BBC1",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b17edf77dbf8178a263b80d4f16b16d1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC1.png"
+    },
+    "image_large": {
+      "hash": "a9849f5644646fe171524a244b6c49bd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC1.png"
+    }
+  },
+  {
+    "id": "BBC2",
+    "name": "BBC Two",
+    "name_short": "BBC2",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0eacbedca42d2c96d199cb57c331a86a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC2.png"
+    },
+    "image_large": {
+      "hash": "504a9c70f6830b0e3ebe8d6d78a9ff9a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC2.png"
+    }
+  },
+  {
+    "id": "BBC4",
+    "name": "BBC Four",
+    "name_short": "BBC4",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "672733b3294de9efc9c4d6d3324a157c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC4.png"
+    },
+    "image_large": {
+      "hash": "627163aa225cd801eda85d3c0b9302fc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC4.png"
+    }
+  },
+  {
+    "id": "CPLUS",
+    "name": "Canal+",
+    "name_short": "CPLUS",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5f2dea781d7f06a90b8380b1de3f990a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CPLUS.png"
+    },
+    "image_large": {
+      "hash": "88485238b0c983a5062fa6ba48607f77",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CPLUS.png"
+    }
+  },
+  {
+    "id": "CPLUSC",
+    "name": "Canal+ Cinéma",
+    "name_short": "CPLUSC",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "27f416d0852507e0effd846143331dd2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CPLUSC.png"
+    },
+    "image_large": {
+      "hash": "d4170bb9730ed51753dcf5b39acfc60c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CPLUSC.png"
+    }
+  },
+  {
+    "id": "CPLUSD",
+    "name": "Canal+ Décalé",
+    "name_short": "CPLUSD",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "33128ce28293ca466f746f0bf41d5b78",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CPLUSD.png"
+    },
+    "image_large": {
+      "hash": "39b432ef28a6c54080bdc4c1ba3d1633",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CPLUSD.png"
+    }
+  },
+  {
+    "id": "CPLUSS",
+    "name": "Canal+ Sport",
+    "name_short": "CPLUSS",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ec140e676a2d9365a0eee6774b41815f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CPLUSS.png"
+    },
+    "image_large": {
+      "hash": "d7c5efea317b3618e69d26acb8abc85d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CPLUSS.png"
+    }
+  },
+  {
+    "id": "C5",
+    "name": "Canale 5",
+    "name_short": "C5",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "63832cc42cca9e4397c681bd78ddfeef",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/C5.png"
+    },
+    "image_large": {
+      "hash": "c674802f2846c8f4156b402e67047322",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/C5.png"
+    }
+  },
+  {
+    "id": "ORF1",
+    "name": "ORF 1",
+    "name_short": "ORF1",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "051e51e0a170da921191aadc1d9aa57d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ORF1.png"
+    },
+    "image_large": {
+      "hash": "ec7563c495f54bae62d5841c817ea062",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ORF1.png"
+    }
+  },
+  {
+    "id": "ORF2",
+    "name": "ORF 2",
+    "name_short": "ORF2",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4ddaeca82ca7673ef92dd44e98518e9a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ORF2.png"
+    },
+    "image_large": {
+      "hash": "3bee3a5ef6e6b043d28ea13cf3e67bad",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ORF2.png"
+    }
+  },
+  {
+    "id": "ORF3",
+    "name": "ORF III",
+    "name_short": "ORF3",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "837ecaf6d03180abbe51acd2af3481eb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ORF3.png"
+    },
+    "image_large": {
+      "hash": "bcaf22d78d89acbd9f2c084083bb1fe7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ORF3.png"
+    }
+  },
+  {
+    "id": "ORFSP",
+    "name": "ORF SPORT +",
+    "name_short": "ORF SPORT+",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "3c0e7facb3a9e06d2af72b3dbc35860c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ORFSP.png"
+    },
+    "image_large": {
+      "hash": "430b88fb642402dd3529027d211c55b4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ORFSP.png"
+    }
+  },
+  {
+    "id": "OE24TV",
+    "name": "oe24.TV",
+    "name_short": "OE24",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4b049f86feafb32d571060890b4430b2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/OE24TV.png"
+    },
+    "image_large": {
+      "hash": "147e8df1368ab28cb7054a7244facaf0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/OE24TV.png"
+    }
+  },
+  {
+    "id": "PULS4",
+    "name": "PULS 4",
+    "name_short": "PULS4",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "38b592487e1fd835dac017a157fecc57",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PULS4.png"
+    },
+    "image_large": {
+      "hash": "55beed3910c622c960a1468a1ae2cc2f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PULS4.png"
+    }
+  },
+  {
+    "id": "SF1",
+    "name": "SRF 1",
+    "name_short": "SRF1",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5f59a843a417dbcd8ef3cea391b12c90",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SF1.png"
+    },
+    "image_large": {
+      "hash": "75cbf69cdcdefa90868b648359178f4d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SF1.png"
+    }
+  },
+  {
+    "id": "STTV",
+    "name": "STAR TV",
+    "name_short": "STAR TV",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "9f84b53138c2114980e74b26b2808002",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/STTV.png"
+    },
+    "image_large": {
+      "hash": "d38e27a091fa478108daf567cbd727a7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/STTV.png"
+    }
+  },
+  {
+    "id": "SF2",
+    "name": "SRF zwei",
+    "name_short": "SRF2",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "049539f92279ff2b17ca7917ec4f7ab9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SF2.png"
+    },
+    "image_large": {
+      "hash": "e31b53081733765fc1170d60a3173160",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SF2.png"
+    }
+  },
+  {
+    "id": "3PLUS",
+    "name": "3+",
+    "name_short": "3+",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "6b3a8962b572cc71ea0ac072768cd75f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/3PLUS.png"
+    },
+    "image_large": {
+      "hash": "409b33b86b6fc9e7e2937eaa46050507",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/3PLUS.png"
+    }
+  },
+  {
+    "id": "PULS8",
+    "name": "PULS acht",
+    "name_short": "PULS 8",
+    "category": "Auslandssender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5e99815abf2e69890b13ef3a9e2f2893",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PULS8.png"
+    },
+    "image_large": {
+      "hash": "432f37448a6f8c4d4b836e3e262b8508",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PULS8.png"
+    }
+  },
+  {
+    "id": "DR1",
+    "name": "DR1",
+    "name_short": "DR1",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f20ee89bb39337e5b95ccc14f5922d9b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DR1.png"
+    },
+    "image_large": {
+      "hash": "a7404f5398c5852db7690703043655be",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DR1.png"
+    }
+  },
+  {
+    "id": "BE1",
+    "name": "Belgien 1",
+    "name_short": "BELGIEN",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b12b44b520ca0297f702d70d9c954ac2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BE1.png"
+    },
+    "image_large": {
+      "hash": "6d55100bbb7577aa0ec1acb382a55cbc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BE1.png"
+    }
+  },
+  {
+    "id": "TV2",
+    "name": "TV2",
+    "name_short": "TV2",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "07e4835db2e43fd14341c1ecb9aa1e3e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TV2.png"
+    },
+    "image_large": {
+      "hash": "83b440ba64246f1b820731e30744efaa",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TV2.png"
+    }
+  },
+  {
+    "id": "TV5",
+    "name": "TV5 Monde",
+    "name_short": "TV5",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "7e5ff2e119959ec72c7f0abf59b17296",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TV5.png"
+    },
+    "image_large": {
+      "hash": "59b104be0cf9f46d0f8eb5555d98f8dd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TV5.png"
+    }
+  },
+  {
+    "id": "SHOT",
+    "name": "Show Turk",
+    "name_short": "SHOT",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "42f96d3c493d9d9985f8449914a91d55",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SHOT.png"
+    },
+    "image_large": {
+      "hash": "a0ce4187250a3f02b5058303829cf2e1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SHOT.png"
+    }
+  },
+  {
+    "id": "TMAX",
+    "name": "Turkmax Gurme",
+    "name_short": "TMAX",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ea2d2c69749fac2717e84b16c701af81",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TMAX.png"
+    },
+    "image_large": {
+      "hash": "1e8b65c99190abaf53124a1ea0554e53",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TMAX.png"
+    }
+  },
+  {
+    "id": "K7I",
+    "name": "Kanal 7 Int",
+    "name_short": "K7I",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "72b0aeb63db23003697b6c8be14333c4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/K7I.png"
+    },
+    "image_large": {
+      "hash": "1bf4fb8a50b2b8a373f6d0b2d490623c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/K7I.png"
+    }
+  },
+  {
+    "id": "EURO-D",
+    "name": "Euro D",
+    "name_short": "EURO-D",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8c45a7ee366ab97aab75fedff4023b82",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EURO-D.png"
+    },
+    "image_large": {
+      "hash": "71ff299021250701ab17c25c0bd55afd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EURO-D.png"
+    }
+  },
+  {
+    "id": "EURO-S",
+    "name": "Euro Star",
+    "name_short": "EURO-S",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d4c40d31ba5a040939268e1e783967b9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/EURO-S.png"
+    },
+    "image_large": {
+      "hash": "f993f1dbfe241988c6b71a03c7b4e523",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/EURO-S.png"
+    }
+  },
+  {
+    "id": "FRA2",
+    "name": "France 2",
+    "name_short": "FRA2",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ffd41d27f7c5e3a86203597863d79c97",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FRA2.png"
+    },
+    "image_large": {
+      "hash": "9440157c398b36ed3961f3d59205fc99",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FRA2.png"
+    }
+  },
+  {
+    "id": "FRA3",
+    "name": "France 3",
+    "name_short": "FRA3",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e0df4644c88f8d16e187bf4783562021",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FRA3.png"
+    },
+    "image_large": {
+      "hash": "ae58628e42bcd27951fcf51d37bff605",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FRA3.png"
+    }
+  },
+  {
+    "id": "FRA4",
+    "name": "France 4",
+    "name_short": "FRA4",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "845fbc6363a352b74f61e0be994e5d1b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FRA4.png"
+    },
+    "image_large": {
+      "hash": "66cf2c60f24a990918ff156ce94d7447",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FRA4.png"
+    }
+  },
+  {
+    "id": "FRA5",
+    "name": "France 5",
+    "name_short": "FRA5",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5843fb92947a33a532c738f471ba24cb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FRA5.png"
+    },
+    "image_large": {
+      "hash": "983f02d1bc100e905611ea82f8688d2d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FRA5.png"
+    }
+  },
+  {
+    "id": "FRAO",
+    "name": "France Ô",
+    "name_short": "FRAO",
+    "category": "Auslandssender",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "1b7cbbdea52304e3b9713130731809a8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FRAO.png"
+    },
+    "image_large": {
+      "hash": "c4786765bf1add802aa6767be1f1b968",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FRAO.png"
+    }
+  },
+  {
+    "id": "CIN",
+    "name": "Sky Cinema",
+    "name_short": "SKY CINEMA",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "28a843df99c0ab7fedb29267270e1f47",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CIN.png"
+    },
+    "image_large": {
+      "hash": "51e6712b914e45b81d4db15ed01883b4",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CIN.png"
+    }
+  },
+  {
+    "id": "CIN1",
+    "name": "Sky Cinema+1",
+    "name_short": "SKY CIN+1",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8590ca66ce5101b7e9d64339f50842c0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CIN1.png"
+    },
+    "image_large": {
+      "hash": "ea8263640861912c21ee04ea51686853",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CIN1.png"
+    }
+  },
+  {
+    "id": "CIN24",
+    "name": "Sky Cinema+24",
+    "name_short": "SKY CIN+24",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0368f542927c1b0b625fbf1e4dba6186",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CIN24.png"
+    },
+    "image_large": {
+      "hash": "a60223aebc80f8573e25a9263bfd03fe",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CIN24.png"
+    }
+  },
+  {
+    "id": "SKY-F",
+    "name": "Sky Family",
+    "name_short": "SKY-F",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e485aeb05414f9ebfe7b3736ddb6305f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-F.png"
+    },
+    "image_large": {
+      "hash": "b98eda973ca47b2208dc0b05bb2db360",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-F.png"
+    }
+  },
+  {
+    "id": "SKY-A",
+    "name": "Sky Action",
+    "name_short": "SKY ACTION",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "24a0f70e990ec5f2b0224ad9a1ac2d21",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-A.png"
+    },
+    "image_large": {
+      "hash": "1b6b65193b2c59eda91a81aa68ed1c97",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-A.png"
+    }
+  },
+  {
+    "id": "SKY-C",
+    "name": "Sky Comedy",
+    "name_short": "SKY COMEDY",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "be64f3acbd7562a9b0e007a0c2de14c0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-C.png"
+    },
+    "image_large": {
+      "hash": "0e6e1a6fc1c3eabc8667ef0e0fdf8f3e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-C.png"
+    }
+  },
+  {
+    "id": "SKY-E",
+    "name": "Sky Emotion",
+    "name_short": "SKY EMOTION",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8a391443a84d25ec7bd77d630af9f6a7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-E.png"
+    },
+    "image_large": {
+      "hash": "17c282fc24474af334ff794bee951d8c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-E.png"
+    }
+  },
+  {
+    "id": "SKY-N",
+    "name": "Sky Nostalgie",
+    "name_short": "SKY NOSTALG",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5b8d3474f0f9b09f5c504720b83a9d04",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-N.png"
+    },
+    "image_large": {
+      "hash": "fde0aabb5cf13151ee5860419ba768ce",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png"
+    }
+  },
+  {
+    "id": "SKY-H",
+    "name": "Sky Hits HD",
+    "name_short": "SKY HITS",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c98bbe6faef9b747409d3178a91ed098",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-H.png"
+    },
+    "image_large": {
+      "hash": "d98e1aed3e6c90a6f806f84fbd9c6132",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-H.png"
+    }
+  },
+  {
+    "id": "TNT-F",
+    "name": "TNT Film",
+    "name_short": "TNT FILM",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d7b7e338c23eeda86a6fde6d3dee950a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TNT-F.png"
+    },
+    "image_large": {
+      "hash": "c8690ba6f559641aa6d2f60657fd8bf5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TNT-F.png"
+    }
+  },
+  {
+    "id": "KINOW",
+    "name": "KinoweltTV",
+    "name_short": "KINO WELT",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4f0e132831a874344ca1fb9fbb03144f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/KINOW.png"
+    },
+    "image_large": {
+      "hash": "9b55f1b4e88cba52d61989e679c1017d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/KINOW.png"
+    }
+  },
+  {
+    "id": "SKY-S",
+    "name": "Sky select",
+    "name_short": "SKY SELECT",
+    "category": "Sky Cinema",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "9289b7fdf216350e60d16129fcc27042",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-S.png"
+    },
+    "image_large": {
+      "hash": "68770d0c46241dd135262574ae195447",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-S.png"
+    }
+  },
+  {
+    "id": "BLUM",
+    "name": "Blue Movie",
+    "name_short": "BLUE MOVIE",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f5b2f11d4aa0d9587f6324ab616f6fe6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BLUM.png"
+    },
+    "image_large": {
+      "hash": "81c0604063f098ac1fd45ea415f82dc0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BLUM.png"
+    }
+  },
+  {
+    "id": "BLUM2",
+    "name": "Blue Movie 2",
+    "name_short": "BLUE MOVIE2",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "615687d431a225dd38a417acf27a2ef0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BLUM2.png"
+    },
+    "image_large": {
+      "hash": "2ece5966e35c5552acdaaa33486471e8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BLUM2.png"
+    }
+  },
+  {
+    "id": "BLUM3",
+    "name": "Blue Movie 3",
+    "name_short": "BLUE MOVIE3",
+    "category": "Sky Cinema",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0d653db0929d99e2adb80b2f9814e920",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BLUM3.png"
+    },
+    "image_large": {
+      "hash": "9c754ee0a5ff0328710cba62f8a5ca15",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BLUM3.png"
+    }
+  },
+  {
+    "id": "BULI",
+    "name": "Sky Sport Bundesliga",
+    "name_short": "SKY BULI",
+    "category": "Sky Sport",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d25e3f853ffeb3e4d4ee8c1cf2b9fc0f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BULI.png"
+    },
+    "image_large": {
+      "hash": "605d972525d24bb863d60e4ff8daa4b3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BULI.png"
+    }
+  },
+  {
+    "id": "HDSPO",
+    "name": "Sky Sport HD 1",
+    "name_short": "SKY S-HD1",
+    "category": "Sky Sport",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b9d99ee89b206babff190d59059b9bdd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HDSPO.png"
+    },
+    "image_large": {
+      "hash": "b55a4bbc6e2c8309966c56e8ed6fab50",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HDSPO.png"
+    }
+  },
+  {
+    "id": "SHD2",
+    "name": "Sky Sport HD 2",
+    "name_short": "SKY S-HD2",
+    "category": "Sky Sport",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "37f84561cec57af44c4d254f22adeb80",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SHD2.png"
+    },
+    "image_large": {
+      "hash": "61c010be1ef323ecc5256b862fd29def",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SHD2.png"
+    }
+  },
+  {
+    "id": "SPO-A",
+    "name": "Sky Sport Austria",
+    "name_short": "SKY SPORT-A",
+    "category": "Sky Sport",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "53f15a6e997c6aa1ab0e2bf9781cd0d8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SPO-A.png"
+    },
+    "image_large": {
+      "hash": "b16e7c3fc21555141dfcabbd256ec603",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SPO-A.png"
+    }
+  },
+  {
+    "id": "SKY1",
+    "name": "Sky 1",
+    "name_short": "SKY1",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "070dfb2e3034de7b2071539a292345ce",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY1.png"
+    },
+    "image_large": {
+      "hash": "51d365a08b55a57bedc58620f09069c6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY1.png"
+    }
+  },
+  {
+    "id": "SKYAT",
+    "name": "Sky Atlantic HD",
+    "name_short": "SKY ALTANT",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0aff8bd7f9cac9b1c30d4eb865316723",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKYAT.png"
+    },
+    "image_large": {
+      "hash": "75f7af35b94940ffe232da3b680e2913",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKYAT.png"
+    }
+  },
+  {
+    "id": "SKY-K",
+    "name": "Sky Krimi",
+    "name_short": "SKY KRIMI",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "86363982afe98cfc411622d4e5af633d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SKY-K.png"
+    },
+    "image_large": {
+      "hash": "a758af817fc840275fa687cddc19bf9b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SKY-K.png"
+    }
+  },
+  {
+    "id": "AXN",
+    "name": "AXN",
+    "name_short": "AXN",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "931d8f28a5a44f5b673e40bdd06c5376",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/AXN.png"
+    },
+    "image_large": {
+      "hash": "e7d716f4dd7a9afaa445704bdfa4b674",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/AXN.png"
+    }
+  },
+  {
+    "id": "UNIVE",
+    "name": "Universal Channel HD",
+    "name_short": "UNI CHANNEL",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "2466cc426d57a17750bfa5e6dd09c820",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/UNIVE.png"
+    },
+    "image_large": {
+      "hash": "0628b2724ed8c31f2572f21105ef57a3",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/UNIVE.png"
+    }
+  },
+  {
+    "id": "HISHD",
+    "name": "History HD",
+    "name_short": "HISTORY",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ab9233d675bda081ba7028f6c6421bc0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HISHD.png"
+    },
+    "image_large": {
+      "hash": "d89f0bd9a2d1ca4cc3f26768e50f1a3a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HISHD.png"
+    }
+  },
+  {
+    "id": "SP-GE",
+    "name": "Spiegel Geschichte",
+    "name_short": "SPIEGEL GESCH",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "6c79b46b3999a78275993e2fc1cbf346",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SP-GE.png"
+    },
+    "image_large": {
+      "hash": "d894b131e9c2c5aae2081d09476d336e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SP-GE.png"
+    }
+  },
+  {
+    "id": "MOVTV",
+    "name": "Motorvision TV",
+    "name_short": "MOTOR VISION",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "5898d5c79c264ecca2e81fd7049998a7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MOVTV.png"
+    },
+    "image_large": {
+      "hash": "15c3467c8492287c45ef13f587ae6a3f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MOVTV.png"
+    }
+  },
+  {
+    "id": "HDDIS",
+    "name": "Discovery HD",
+    "name_short": "DISCOVERY",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "270d8f32649bf843a0f60199b9dbd8bb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HDDIS.png"
+    },
+    "image_large": {
+      "hash": "262c447a94441c310c22f978898d51c9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HDDIS.png"
+    }
+  },
+  {
+    "id": "N-GHD",
+    "name": "Nat Geo HD",
+    "name_short": "NAT GEO",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "35e6592d445c613d3f1234379ba58eda",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/N-GHD.png"
+    },
+    "image_large": {
+      "hash": "4de8b53b7885e1f002b4b01d0f4fcd3a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/N-GHD.png"
+    }
+  },
+  {
+    "id": "N-GW",
+    "name": "NAT GEO WILD",
+    "name_short": "NATGEO WILD",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "3862dee58962fe15aeabce2852fec515",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/N-GW.png"
+    },
+    "image_large": {
+      "hash": "984cebe245b825d3c288bd9bb605c278",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/N-GW.png"
+    }
+  },
+  {
+    "id": "RTL-C",
+    "name": "RTL Crime",
+    "name_short": "RTL CRIME",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "2e2f16983c3416156f3405d3f9becfe5",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTL-C.png"
+    },
+    "image_large": {
+      "hash": "010037ae24546c059581d9319f7e7072",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTL-C.png"
+    }
+  },
+  {
+    "id": "13TH",
+    "name": "13th Street Universal",
+    "name_short": "13TH STREET",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f8f5df30a363a57953f3c416f2b8f047",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/13TH.png"
+    },
+    "image_large": {
+      "hash": "e9c1997618b2c5adbf5f0786f8453902",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/13TH.png"
+    }
+  },
+  {
+    "id": "SCIFI",
+    "name": "Syfy",
+    "name_short": "SYFY",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a7264601f630ce088ba62b776833ea52",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SCIFI.png"
+    },
+    "image_large": {
+      "hash": "62670e87abb69f71239dcdca060649d6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SCIFI.png"
+    }
+  },
+  {
+    "id": "FOX",
+    "name": "FOX",
+    "name_short": "FOX",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "b8931b3984b1586c0d864e34356d6e9e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FOX.png"
+    },
+    "image_large": {
+      "hash": "6453f523d6c181393a00e4d1a1d75a43",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FOX.png"
+    }
+  },
+  {
+    "id": "TNT-S",
+    "name": "TNT Serie",
+    "name_short": "TNT SERIE",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "669a8bcedd4be71c8b2430c83bf67d25",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TNT-S.png"
+    },
+    "image_large": {
+      "hash": "394f9290a7469570975004ca287e3259",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TNT-S.png"
+    }
+  },
+  {
+    "id": "TNT-C",
+    "name": "TNT Comedy",
+    "name_short": "TNT COMEDY",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "356714f2697649d673a56eb2ce47e13b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TNT-C.png"
+    },
+    "image_large": {
+      "hash": "a6565c5fa89da2fd85c10634de181bda",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png"
+    }
+  },
+  {
+    "id": "CRIN",
+    "name": "CRIME + INVESTIGATION",
+    "name_short": "CRIME INVEST",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "baeceb0bc57bcf9930fd53ce83dd7a6b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CRIN.png"
+    },
+    "image_large": {
+      "hash": "9e5aec8842e557219aca0b50912a8664",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CRIN.png"
+    }
+  },
+  {
+    "id": "RTL-L",
+    "name": "RTL Living",
+    "name_short": "RTL LIVING",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f1a7fdcf9f7a74258fb11e4b472ab74b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RTL-L.png"
+    },
+    "image_large": {
+      "hash": "d009baeec236b2acf35791941a20fba8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RTL-L.png"
+    }
+  },
+  {
+    "id": "PASS",
+    "name": "RTL Passion",
+    "name_short": "RTL PASSION",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a9cd839c0f765986e23089ba1b09a022",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PASS.png"
+    },
+    "image_large": {
+      "hash": "fc19e7a4d737e182e10fa15b16e27bbc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PASS.png"
+    }
+  },
+  {
+    "id": "ROM",
+    "name": "Romance TV",
+    "name_short": "ROM",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "55e5f7567f791d9b5ca904a9830d05fc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ROM.png"
+    },
+    "image_large": {
+      "hash": "40357c9713087be79118f4d3365a30a8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ROM.png"
+    }
+  },
+  {
+    "id": "HEIMA",
+    "name": "Heimatkanal",
+    "name_short": "HEIMAT KANAL",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "439bf2a7bb6f5059d2a3d78aba1d3c54",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/HEIMA.png"
+    },
+    "image_large": {
+      "hash": "4d441e31ba324b7867dc076db11ebb41",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/HEIMA.png"
+    }
+  },
+  {
+    "id": "C-NET",
+    "name": "Cartoon Network",
+    "name_short": "C-NET",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "576d2667aacde3032903d00fbb9d447a",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/C-NET.png"
+    },
+    "image_large": {
+      "hash": "b672977a6a5613ebaee5a7d30b93c4ec",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/C-NET.png"
+    }
+  },
+  {
+    "id": "DXD",
+    "name": "Disney XD",
+    "name_short": "DISNEY XD",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "254d54815e7c82f845bb0136e1321ef6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DXD.png"
+    },
+    "image_large": {
+      "hash": "5b8b38e524cc7eb2b7f7c61b5038e496",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DXD.png"
+    }
+  },
+  {
+    "id": "DJUN",
+    "name": "Disney Junior",
+    "name_short": "DISNEY JUNIOR",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8bd0c53674ad97737d0898bde09b89d9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/DJUN.png"
+    },
+    "image_large": {
+      "hash": "ed31e6b647049f08a8cfd76c117b80a8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/DJUN.png"
+    }
+  },
+  {
+    "id": "JUNIO",
+    "name": "Junior",
+    "name_short": "JUNIOR",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "ea629993712bff2b3837c8fc02a87893",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/JUNIO.png"
+    },
+    "image_large": {
+      "hash": "33175ce56bc7d5bf890d76830c1d4f5e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/JUNIO.png"
+    }
+  },
+  {
+    "id": "E!",
+    "name": "E! Entertainment",
+    "name_short": "E!",
+    "category": "Sky Entertainment",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4d2365334461159887d44cb193d3730b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/E!.png"
+    },
+    "image_large": {
+      "hash": "693840b51c50d6cfa8d5b33a0e7ca7a7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/E!.png"
+    }
+  },
+  {
+    "id": "CLASS",
+    "name": "Classica",
+    "name_short": "CLASSICA",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a47671cb833af9d4e711c9e0ca1d89b2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/CLASS.png"
+    },
+    "image_large": {
+      "hash": "0b68c3a6674334377fb1e195483166c7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/CLASS.png"
+    }
+  },
+  {
+    "id": "BUTV",
+    "name": "Beate-Uhse.TV",
+    "name_short": "BEATE UHSE",
+    "category": "Sky Entertainment",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "614b06411f0358af5ff838ce95967029",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BUTV.png"
+    },
+    "image_large": {
+      "hash": "60dae822c9b235727634e20425f13a28",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BUTV.png"
+    }
+  },
+  {
+    "id": "ADULT",
+    "name": "Adult Channel",
+    "name_short": "ADULT CHANNEL",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "26af80c681f0e7be7f642db7ed7be66b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/ADULT.png"
+    },
+    "image_large": {
+      "hash": "8e0f7b4eca5b7c43056cb569ae991f21",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/ADULT.png"
+    }
+  },
+  {
+    "id": "APLAN",
+    "name": "Animal Planet",
+    "name_short": "ANIMAL PLANET",
+    "category": "Pay TV",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "a911f357c406bdc2ba4a8f0a096dd8f0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/APLAN.png"
+    },
+    "image_large": {
+      "hash": "c4420b0b0c5229b488ff2f1c5c69d98b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/APLAN.png"
+    }
+  },
+  {
+    "id": "BBC-E",
+    "name": "BBC Entertainment",
+    "name_short": "BBC ENT",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "62e0afefd9112fc04e9934429214e3d0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/BBC-E.png"
+    },
+    "image_large": {
+      "hash": "150f9755523ea536a815e3825834bac7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/BBC-E.png"
+    }
+  },
+  {
+    "id": "FATV",
+    "name": "Fashion TV",
+    "name_short": "FASHION TV",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8f39058f33475ec713941604b6f95b4b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/FATV.png"
+    },
+    "image_large": {
+      "hash": "ae8c091960b5590bfdc9ab1b5df7aacf",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/FATV.png"
+    }
+  },
+  {
+    "id": "GEO",
+    "name": "GEO Television",
+    "name_short": "GEO",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "cfc2089d75c411115e495811e60b16fc",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/GEO.png"
+    },
+    "image_large": {
+      "hash": "dd75375bd568cf47e603738b471154d8",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/GEO.png"
+    }
+  },
+  {
+    "id": "LAUNE",
+    "name": "Gute Laune TV",
+    "name_short": "GUTE LAUNE",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e30cf29a97044e6794d939cb91a1b4e2",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/LAUNE.png"
+    },
+    "image_large": {
+      "hash": "19b2d9ae711b4d5e9db2dc9e33eaccbd",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/LAUNE.png"
+    }
+  },
+  {
+    "id": "JUKE",
+    "name": "Jukebox",
+    "name_short": "JUKE BOX",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "bdf33d401a37899796c7e2c6d7808f5b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/JUKE.png"
+    },
+    "image_large": {
+      "hash": "18b9c1300ccf082f5e3c620656e3c673",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/JUKE.png"
+    }
+  },
+  {
+    "id": "LUSTP",
+    "name": "LUST PUR",
+    "name_short": "LUST PUR",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "f37502603f8c27f22d17f9ab03dacd08",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/LUSTP.png"
+    },
+    "image_large": {
+      "hash": "9ca86a918beca8db867bf1e4a3775239",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/LUSTP.png"
+    }
+  },
+  {
+    "id": "MEZZO",
+    "name": "Mezzo",
+    "name_short": "MEZZO",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e2141811836982b9609a58f0765c07e0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MEZZO.png"
+    },
+    "image_large": {
+      "hash": "bf79e824a595c71fb555d8512b3b0511",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MEZZO.png"
+    }
+  },
+  {
+    "id": "MTV-B",
+    "name": "MTV Base",
+    "name_short": "MTV BASE",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "127b40f96cc047dea6814d93819ccf3e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MTV-B.png"
+    },
+    "image_large": {
+      "hash": "b623285ff76df1be68026c71c525c3e6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MTV-B.png"
+    }
+  },
+  {
+    "id": "MTV-D",
+    "name": "MTV Dance",
+    "name_short": "MTV DANCE",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "e0cb4269ef276b07fe5b1b0a42657f63",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MTV-D.png"
+    },
+    "image_large": {
+      "hash": "1bc7571a14c35bfe00e975a5a5b190e1",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MTV-D.png"
+    }
+  },
+  {
+    "id": "MTV-H",
+    "name": "MTV Hits",
+    "name_short": "MTV HITS",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "7759861cef68e96a27f914471d8a7d4f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/MTV-H.png"
+    },
+    "image_large": {
+      "hash": "73e58f4f3058f922a5babfd2631f6160",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/MTV-H.png"
+    }
+  },
+  {
+    "id": "NAUCH",
+    "name": "Nautical Channel",
+    "name_short": "NAUT",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "4a30f0807334721427fce226eca1318d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NAUCH.png"
+    },
+    "image_large": {
+      "hash": "6d5e138b10ed7c5d879111af779a9200",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NAUCH.png"
+    }
+  },
+  {
+    "id": "PBOY",
+    "name": "Playboy TV",
+    "name_short": "PLAY BOY",
+    "category": "Pay TV",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "37b32d9e6e59cc204677cb90f6c8c30b",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PBOY.png"
+    },
+    "image_large": {
+      "hash": "fe1606015fb4f62ca30b4c0f9fde82a0",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PBOY.png"
+    }
+  },
+  {
+    "id": "K1CLA",
+    "name": "kabel eins classics",
+    "name_short": "K1 CLASSICS",
+    "category": "Sky Welt",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "c80340db5278ae43f8b8b29004b47209",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/K1CLA.png"
+    },
+    "image_large": {
+      "hash": "1862e1ff4f94715ec68785ecb30771d7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/K1CLA.png"
+    }
+  },
+  {
+    "id": "SAT1E",
+    "name": "SAT.1 emotions",
+    "name_short": "SAT.1 EMOT",
+    "category": "Sky Welt",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "6bb1e8cbea8905148709b2a41aa04255",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SAT1E.png"
+    },
+    "image_large": {
+      "hash": "3a687a3b0eca65f8d62507a4399b6e46",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SAT1E.png"
+    }
+  },
+  {
+    "id": "PRO7F",
+    "name": "ProSieben Fun",
+    "name_short": "PRO7 FUN",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "d3252bd1254956070ebb58e43149201f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/PRO7F.png"
+    },
+    "image_large": {
+      "hash": "a52632d96bc0a074b55708361d2ce1d7",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/PRO7F.png"
+    }
+  },
+  {
+    "id": "NOWUS",
+    "name": "NOW US",
+    "name_short": "NOW US",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "8bd602d69ffb8e03b4e39c20a40219e6",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/NOWUS.png"
+    },
+    "image_large": {
+      "hash": "2ed5464ecae79ef5bf10ddcb5977f10e",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/NOWUS.png"
+    }
+  },
+  {
+    "id": "VOXUP",
+    "name": "VOXup",
+    "name_short": "VOX UP",
+    "category": "Spartensender",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "0ebf8504d75c94ea7824d5f3b5adc52c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/VOXUP.png"
+    },
+    "image_large": {
+      "hash": "d76b42738b8f45c5f31a41c56b41c08c",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/VOXUP.png"
+    }
+  },
+  {
+    "id": "RCK",
+    "name": "RCK TV",
+    "name_short": "RCK TV",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "7236c5a8921c599450c5e19fcb5ae8fb",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/RCK.png"
+    },
+    "image_large": {
+      "hash": "9fe572ec973dba05b0c0b3f751bdbb9d",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/RCK.png"
+    }
+  },
+  {
+    "id": "SILVE",
+    "name": "Silverline",
+    "name_short": "SILVER LINE",
+    "category": "Pay TV",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "028980b408296e76f4e1256f6935f464",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SILVE.png"
+    },
+    "image_large": {
+      "hash": "6044771e652f954cbe100621aee9c07f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SILVE.png"
+    }
+  },
+  {
+    "id": "SONY",
+    "name": "Sony Entertainment Television",
+    "name_short": "SONY",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "335d3458d119b7df3084b8b0b6889e55",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SONY.png"
+    },
+    "image_large": {
+      "hash": "31fbb9d6d83db03ed442bd505ba33c6f",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SONY.png"
+    }
+  },
+  {
+    "id": "SPTVW",
+    "name": "Spiegel TV Wissen",
+    "name_short": "SPIEGEL WISSEN",
+    "category": "Pay TV",
+    "is_premium": false,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "19ac70fc393454eca80faa8aaba71107",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/SPTVW.png"
+    },
+    "image_large": {
+      "hash": "0387e8edafdfd583b4e335e2251eebd9",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/SPTVW.png"
+    }
+  },
+  {
+    "id": "TRACE",
+    "name": "Trace TV",
+    "name_short": "TRACE TV",
+    "category": "Pay TV",
+    "is_premium": true,
+    "is_public_service": false,
+    "is_live_tv": false,
+    "image_small": {
+      "hash": "08b197b6b98073d4e8ceacfdcb936c12",
+      "url": "http://live.tvspielfilm.de/static/images/channels/small/TRACE.png"
+    },
+    "image_large": {
+      "hash": "5b168d20ce81f65bac91ebd4c5b27865",
+      "url": "http://live.tvspielfilm.de/static/images/channels/large/TRACE.png"
+    }
+  }
+]
+}

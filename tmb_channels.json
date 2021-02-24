@@ -1,0 +1,19 @@
+{
+  "channels": {
+    "CZ": {
+    },
+    "SK": {
+      "360Tune box HD": "360TuneBox.cz",
+      "AMC": "AMC.cz",
+      "AMC HD": "AMC.cz",
+      "AXN": "AXN.cz",
+      "AXN Black": "AXNBlack.cz",
+      "AXN White": "AXNWhite.cz",
+      "Al Alam": "AlAlam.ar",
+      "Al Jazeera EN": "AlJazeera.nws",
+      "Animal Planet": "AnimalPlanet.cz",
+      "Animal Planet HD": "AnimalPlanet.cz",
+      "Arena Sport 1 HD": "ArenaSport1.sk"
+    }
+  }
+}

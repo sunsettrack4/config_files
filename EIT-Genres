@@ -1,5 +1,7 @@
 EIT GENRELIST
+ETSI EN 300 468
 
+"Undefined content"
 
 "Movie / Drama"
 "Detective / Thriller"
@@ -48,6 +50,7 @@ EIT GENRELIST
 "Folk / Traditional music"
 "Jazz"
 "Musical / Opera"
+"Ballet"
 
 "Arts / Culture (without music)"
 "Performing arts"
@@ -58,7 +61,9 @@ EIT GENRELIST
 "Film / Cinema"
 "Experimental film / Video"
 "Broadcasting / Press"
-
+"New media"
+"Arts magazines / Culture magazines"
+"Fashion"
 
 "Social / Political issues / Economics"
 "Magazines / Reports / Documentary"
@@ -68,7 +73,6 @@ EIT GENRELIST
 "Education / Science / Factual topics"
 "Nature / Animals / Environment"
 "Technology / Natural sciences"
-
 "Medicine / Physiology / Psychology"
 "Foreign countries / Expeditions"
 "Social / Spiritual sciences"
@@ -83,7 +87,3 @@ EIT GENRELIST
 "Cooking"
 "Advertisement / Shopping"
 "Gardening"
-"Fashion"
-
-"Live Broadcast"
-"Keine Informationen Enthalten"
