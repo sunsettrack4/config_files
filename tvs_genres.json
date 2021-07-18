@@ -1579,7 +1579,16 @@
             "Slasher-Horrorkomödie" : "Comedy",
             "Horror-Slasher" : "Science fiction / Fantasy / Horror",
             "Noir-Thriller" : "Detective / Thriller",
-            "Sci-Fi-Laienspiel" : "Science fiction / Fantasy / Horror"
+            "Sci-Fi-Laienspiel" : "Science fiction / Fantasy / Horror",
+            "Arztklamauk" : "Comedy",
+            "Endzeit-Survivalaction" : "Science fiction / Fantasy / Horror",
+            "Folterhorror" : "Science fiction / Fantasy / Horror",
+            "Horror-Satire" : "Science fiction / Fantasy / Horror",
+            "Horror-Western" : "Science fiction / Fantasy / Horror",
+            "Horroranthologie" : "Science fiction / Fantasy / Horror",
+            "Mutantenhorror" : "Science fiction / Fantasy / Horror",
+            "Thriller-Trash" : "Detective / Thriller",
+            "Zombiehorrorkomödie" : "Science fiction / Fantasy / Horror"
           }
   }
 }
