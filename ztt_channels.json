@@ -1,7 +1,7 @@
 {
   "channels": {
     "DE": {
-      "Das Erste": "ARD.de",
+      "Das Erste": "DasErste.de",
       "ZDF": "ZDF.de",
       "Sport1": "Sport1HD.de",
       "Comedy Central": "ComedyCentral/VIVA.de",
@@ -196,7 +196,7 @@
       "Pink Music": "PinkMusic.si",
       "Globo HD": "TVGlobo.pt",
       "ran FIGHTING HD": "ranFIGHTING.de",
-      "Das Erste HD": "ARD.de",
+      "Das Erste HD": "DasErste.de",
       "ZDF HD": "ZDF.de",
       "Sport1 HD": "Sport1HD.de",
       "Comedy Central HD": "ComedyCentral/VIVA.de",
@@ -340,7 +340,7 @@
       "4+ HD": "4plus.ch",
       "5+ HD": "5plus.ch",
       "6+ HD": "6plus.ch",
-      "Das Erste HD": "ARD.de",
+      "Das Erste HD": "DasErste.de",
       "ZDF HD": "ZDF.de",
       "TV24 HD": "TV24.ch",
       "RTL HD": "RTL.ch",
@@ -688,7 +688,7 @@
       "Animal Planet": "AnimalPlanet.de"
     },
     "AT": {
-      "Das Erste HD": "ARD.de",
+      "Das Erste HD": "DasErste.de",
       "ZDF HD": "ZDF.de",
       "Sport1 HD": "Sport1HD.de",
       "Comedy Central HD": "ComedyCentral/VIVA.de",
@@ -855,8 +855,8 @@
       "Comedy Central": "ComedyCentral/VIVA.de",
       "Comedy Central HD": "ComedyCentral/VIVA.de",
       "CSTAR HD": "CStar.fr",
-      "Das Erste": "ARD.de",
-      "Das Erste HD": "ARD.de",
+      "Das Erste": "DasErste.de",
+      "Das Erste HD": "DasErste.de",
       "Dave": "Dave.uk",
       "DELUXE MUSIC": "DeLuxeMusic.de",
       "DELUXE MUSIC HD": "DeLuxeMusic.de",
